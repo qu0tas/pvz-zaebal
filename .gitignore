@@ -12,3 +12,7 @@ artifacts/
 *.fbmod
 *.fbproject
 *.xml
+
+# Explicit user-requested baselines; other exports remain ignored.
+!/originals/*.bin
+!/originals/*.xml

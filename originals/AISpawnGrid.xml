@@ -1,0 +1,2808 @@
+<SubWorldData Guid="2d799e95-f2ad-453c-999b-59989cd76b3b">
+    <Name>Levels/Level_Coop_TimePark/AISpawnGrid</Name>
+    <PropertyConnections Count="176">
+        <member Index="0">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fc10bfcb-4cf7-4658-a19a-5150650b60f4]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="1">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fc10bfcb-4cf7-4658-a19a-5150650b60f4]</Target>
+                <SourceFieldId>0xf79143d5</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="2">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fc10bfcb-4cf7-4658-a19a-5150650b60f4]</Target>
+                <SourceFieldId>0xf79143d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="3">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fc10bfcb-4cf7-4658-a19a-5150650b60f4]</Target>
+                <SourceFieldId>0xf79143d7</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="4">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f211d2bf-7e5e-4e44-a7a3-f5ef819e43eb]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="5">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f211d2bf-7e5e-4e44-a7a3-f5ef819e43eb]</Target>
+                <SourceFieldId>0xf79143d5</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="6">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f211d2bf-7e5e-4e44-a7a3-f5ef819e43eb]</Target>
+                <SourceFieldId>0xf79143d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="7">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f211d2bf-7e5e-4e44-a7a3-f5ef819e43eb]</Target>
+                <SourceFieldId>0xf79143d7</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="8">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [145c885b-8187-422a-bae3-3ef28d532f22]</Target>
+                <SourceFieldId>0xf79143d0</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="9">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [145c885b-8187-422a-bae3-3ef28d532f22]</Target>
+                <SourceFieldId>0xf79143d1</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="10">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [145c885b-8187-422a-bae3-3ef28d532f22]</Target>
+                <SourceFieldId>0xf79143d2</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="11">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [145c885b-8187-422a-bae3-3ef28d532f22]</Target>
+                <SourceFieldId>0xf79143d3</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="12">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [49d1a337-fc73-4845-a12e-edf275c853f7]</Target>
+                <SourceFieldId>0xf79143dc</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="13">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [49d1a337-fc73-4845-a12e-edf275c853f7]</Target>
+                <SourceFieldId>0xf79143dd</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="14">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [49d1a337-fc73-4845-a12e-edf275c853f7]</Target>
+                <SourceFieldId>0xe9b9be45</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="15">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [49d1a337-fc73-4845-a12e-edf275c853f7]</Target>
+                <SourceFieldId>0xe9b9be44</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="16">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [17c1e1b4-d252-46a4-8786-f80b19314859]</Target>
+                <SourceFieldId>0xe9b9be47</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="17">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [17c1e1b4-d252-46a4-8786-f80b19314859]</Target>
+                <SourceFieldId>0xe9b9be46</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="18">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [17c1e1b4-d252-46a4-8786-f80b19314859]</Target>
+                <SourceFieldId>0xe9b9be41</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="19">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [17c1e1b4-d252-46a4-8786-f80b19314859]</Target>
+                <SourceFieldId>0xe9b9be40</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="20">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [bc87be63-a8da-4fc0-a5bf-bf9bc072ba83]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="21">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [847eeeed-4752-4465-89a7-911e0039ffef]</Target>
+                <SourceFieldId>0xe9b9be43</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="22">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [847eeeed-4752-4465-89a7-911e0039ffef]</Target>
+                <SourceFieldId>0xe9b9be42</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="23">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [847eeeed-4752-4465-89a7-911e0039ffef]</Target>
+                <SourceFieldId>0xe9b9be4d</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="24">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [847eeeed-4752-4465-89a7-911e0039ffef]</Target>
+                <SourceFieldId>0xe9b9be4c</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="25">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7eb52f41-088d-441f-9169-851a0a52fcf7]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="26">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43791300-0564-4372-a338-1cffeca64196]</Target>
+                <SourceFieldId>0xe9b9bea6</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="27">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43791300-0564-4372-a338-1cffeca64196]</Target>
+                <SourceFieldId>0xe9b9bea7</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="28">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43791300-0564-4372-a338-1cffeca64196]</Target>
+                <SourceFieldId>0xe9b9bea4</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="29">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43791300-0564-4372-a338-1cffeca64196]</Target>
+                <SourceFieldId>0xe9b9bea5</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="30">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [c3ed8578-62c8-478c-b145-42343467f968]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="31">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f1a33b53-7245-4bb0-951c-5271800d5e58]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="32">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [85d3ec66-9fb6-43b0-83cd-96bca7c56fdf]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="33">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [c278089a-f355-48e9-8051-18817fd67786]</Target>
+                <SourceFieldId>0xe9b9bea2</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="34">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [c278089a-f355-48e9-8051-18817fd67786]</Target>
+                <SourceFieldId>0xe9b9bea3</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="35">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [c278089a-f355-48e9-8051-18817fd67786]</Target>
+                <SourceFieldId>0xe9b9bea0</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="36">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [c278089a-f355-48e9-8051-18817fd67786]</Target>
+                <SourceFieldId>0xe9b9bea1</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="37">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [52dea1ff-4435-4d81-9aac-65a13f111a74]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="38">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [090f8a41-614d-4319-95d9-b7a08c6906cb]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="39">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7e46dd5d-a4e1-4eda-848b-195329d8a83b]</Target>
+                <SourceFieldId>0xe9b9beae</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="40">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7e46dd5d-a4e1-4eda-848b-195329d8a83b]</Target>
+                <SourceFieldId>0xe9b9beaf</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="41">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7e46dd5d-a4e1-4eda-848b-195329d8a83b]</Target>
+                <SourceFieldId>0xe9b9be87</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="42">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7e46dd5d-a4e1-4eda-848b-195329d8a83b]</Target>
+                <SourceFieldId>0xe9b9be86</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="43">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [81782afa-ae04-477a-bcd8-50bdc73b6f6a]</Target>
+                <SourceFieldId>0xe9b9be85</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="44">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [81782afa-ae04-477a-bcd8-50bdc73b6f6a]</Target>
+                <SourceFieldId>0xe9b9be84</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="45">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [1cb74a9a-554f-47f1-ba53-68f822bd599e]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="46">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [1cb74a9a-554f-47f1-ba53-68f822bd599e]</Target>
+                <SourceFieldId>0xe9b9be83</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="47">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [1cb74a9a-554f-47f1-ba53-68f822bd599e]</Target>
+                <SourceFieldId>0xe9b9be82</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="48">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [461b8af7-8a94-42f7-ae41-16a78b20e116]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="49">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [461b8af7-8a94-42f7-ae41-16a78b20e116]</Target>
+                <SourceFieldId>0xe9b9be81</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="50">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43caca54-528f-4023-bd8a-b1582d4ee4e4]</Target>
+                <SourceFieldId>0xe9b9be80</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="51">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43caca54-528f-4023-bd8a-b1582d4ee4e4]</Target>
+                <SourceFieldId>0xe9b9be8f</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="52">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [78ead5d9-dd5f-4487-b20e-05b57e4b6bee]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="53">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [64c6b274-fe0e-4571-a2f6-8ea053dcbff2]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="54">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f9b4cc09-5b2b-4ef5-aca8-aeeeaf69b5c7]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="55">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f9b4cc09-5b2b-4ef5-aca8-aeeeaf69b5c7]</Target>
+                <SourceFieldId>0xf79143d5</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="56">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f9b4cc09-5b2b-4ef5-aca8-aeeeaf69b5c7]</Target>
+                <SourceFieldId>0xf79143d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="57">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [f9b4cc09-5b2b-4ef5-aca8-aeeeaf69b5c7]</Target>
+                <SourceFieldId>0xf79143d7</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="58">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [d7ce7867-38ac-45c8-a7a4-90c6fa5c5cac]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="59">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [d7ce7867-38ac-45c8-a7a4-90c6fa5c5cac]</Target>
+                <SourceFieldId>0xe9b9be8e</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="60">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [d7ce7867-38ac-45c8-a7a4-90c6fa5c5cac]</Target>
+                <SourceFieldId>0xf79143d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="61">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [d7ce7867-38ac-45c8-a7a4-90c6fa5c5cac]</Target>
+                <SourceFieldId>0xf79143d7</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="62">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7744d094-8c09-43ca-a764-6a6d4a6c9c2c]</Target>
+                <SourceFieldId>0xe9b9bde0</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="63">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7744d094-8c09-43ca-a764-6a6d4a6c9c2c]</Target>
+                <SourceFieldId>0xe9b9bde1</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="64">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7744d094-8c09-43ca-a764-6a6d4a6c9c2c]</Target>
+                <SourceFieldId>0xe9b9bde2</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="65">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [7744d094-8c09-43ca-a764-6a6d4a6c9c2c]</Target>
+                <SourceFieldId>0xf79143d5</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="66">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [6c540fec-4068-4af1-96f8-c7787388cab3]</Target>
+                <SourceFieldId>0xe9b9bde3</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="67">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [6c540fec-4068-4af1-96f8-c7787388cab3]</Target>
+                <SourceFieldId>0xe9b9bde4</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="68">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [6c540fec-4068-4af1-96f8-c7787388cab3]</Target>
+                <SourceFieldId>0xe9b9bde5</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="69">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [6c540fec-4068-4af1-96f8-c7787388cab3]</Target>
+                <SourceFieldId>0xe9b9bde6</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="70">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4b94eab0-06e4-4f8a-90d9-d05c5e50f3b2]</Target>
+                <SourceFieldId>0xe9b9bde7</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="71">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4b94eab0-06e4-4f8a-90d9-d05c5e50f3b2]</Target>
+                <SourceFieldId>0xe9b9bde8</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="72">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4b94eab0-06e4-4f8a-90d9-d05c5e50f3b2]</Target>
+                <SourceFieldId>0xe9b9bde9</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="73">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4b94eab0-06e4-4f8a-90d9-d05c5e50f3b2]</Target>
+                <SourceFieldId>0xe9b9bdc1</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="74">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8f2a6cca-539b-447c-8bd4-8bbfb6e453ba]</Target>
+                <SourceFieldId>0xe9b9bdc0</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="75">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8f2a6cca-539b-447c-8bd4-8bbfb6e453ba]</Target>
+                <SourceFieldId>0xe9b9bdc3</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="76">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8f2a6cca-539b-447c-8bd4-8bbfb6e453ba]</Target>
+                <SourceFieldId>0xe9b9bdc2</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="77">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8f2a6cca-539b-447c-8bd4-8bbfb6e453ba]</Target>
+                <SourceFieldId>0xe9b9bdc5</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="78">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [21748e9e-13aa-411d-9f07-e8d64ee70fed]</Target>
+                <SourceFieldId>0xe9b9bdc4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="79">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [21748e9e-13aa-411d-9f07-e8d64ee70fed]</Target>
+                <SourceFieldId>0xe9b9bdc7</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="80">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [21748e9e-13aa-411d-9f07-e8d64ee70fed]</Target>
+                <SourceFieldId>0xe9b9bdc6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="81">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [21748e9e-13aa-411d-9f07-e8d64ee70fed]</Target>
+                <SourceFieldId>0xe9b9bdc9</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="82">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4fa47789-59ca-4d8b-8467-4bbfbb196166]</Target>
+                <SourceFieldId>0xe9b9bdc8</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="83">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4fa47789-59ca-4d8b-8467-4bbfbb196166]</Target>
+                <SourceFieldId>0xe9b9be22</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="84">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4fa47789-59ca-4d8b-8467-4bbfbb196166]</Target>
+                <SourceFieldId>0xe9b9be23</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="85">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [4fa47789-59ca-4d8b-8467-4bbfbb196166]</Target>
+                <SourceFieldId>0xe9b9be20</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="86">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8d945188-0a21-49dc-8e93-37de728b6447]</Target>
+                <SourceFieldId>0xe9b9be21</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="87">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8d945188-0a21-49dc-8e93-37de728b6447]</Target>
+                <SourceFieldId>0xe9b9be26</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="88">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8d945188-0a21-49dc-8e93-37de728b6447]</Target>
+                <SourceFieldId>0xe9b9be27</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="89">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8d945188-0a21-49dc-8e93-37de728b6447]</Target>
+                <SourceFieldId>0xe9b9be24</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="90">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [faa01c8a-820a-407b-bcb7-1ea31e570c14]</Target>
+                <SourceFieldId>0xe9b9be25</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="91">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [faa01c8a-820a-407b-bcb7-1ea31e570c14]</Target>
+                <SourceFieldId>0xe9b9be2a</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="92">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [faa01c8a-820a-407b-bcb7-1ea31e570c14]</Target>
+                <SourceFieldId>0xe9b9be2b</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="93">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [faa01c8a-820a-407b-bcb7-1ea31e570c14]</Target>
+                <SourceFieldId>0xe9b9be03</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="94">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [e5c26dc6-241c-4800-a45b-4160d164545e]</Target>
+                <SourceFieldId>0xe9b9be02</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="95">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [e5c26dc6-241c-4800-a45b-4160d164545e]</Target>
+                <SourceFieldId>0xe9b9be01</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="96">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [e5c26dc6-241c-4800-a45b-4160d164545e]</Target>
+                <SourceFieldId>0xe9b9be00</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="97">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [e5c26dc6-241c-4800-a45b-4160d164545e]</Target>
+                <SourceFieldId>0xe9b9be07</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="98">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [9b1cdac3-877d-47df-9507-59de90e60f20]</Target>
+                <SourceFieldId>0xe9b9be06</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="99">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [9b1cdac3-877d-47df-9507-59de90e60f20]</Target>
+                <SourceFieldId>0xe9b9be46</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="100">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [9b1cdac3-877d-47df-9507-59de90e60f20]</Target>
+                <SourceFieldId>0xe9b9be05</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="101">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [9b1cdac3-877d-47df-9507-59de90e60f20]</Target>
+                <SourceFieldId>0xe9b9be04</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="102">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a6ce0539-51b6-45d5-ae46-27a39ea5cd88]</Target>
+                <SourceFieldId>0xe9b9be0b</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="103">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a6ce0539-51b6-45d5-ae46-27a39ea5cd88]</Target>
+                <SourceFieldId>0xe9b9be0a</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="104">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a6ce0539-51b6-45d5-ae46-27a39ea5cd88]</Target>
+                <SourceFieldId>0xe9b9bf6c</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="105">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a6ce0539-51b6-45d5-ae46-27a39ea5cd88]</Target>
+                <SourceFieldId>0xe9b9bf6d</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="106">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [299c660e-87e4-47d5-9e2b-5c9790b2144e]</Target>
+                <SourceFieldId>0xe9b9bf6e</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="107">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [299c660e-87e4-47d5-9e2b-5c9790b2144e]</Target>
+                <SourceFieldId>0xe9b9bf6f</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="108">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [299c660e-87e4-47d5-9e2b-5c9790b2144e]</Target>
+                <SourceFieldId>0xe9b9bf68</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="109">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [299c660e-87e4-47d5-9e2b-5c9790b2144e]</Target>
+                <SourceFieldId>0xe9b9bf69</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="110">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [63ad86b0-e23d-40cc-b068-7b99392598fc]</Target>
+                <SourceFieldId>0xe9b9bf6a</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="111">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [63ad86b0-e23d-40cc-b068-7b99392598fc]</Target>
+                <SourceFieldId>0xe9b9bf6b</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="112">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [63ad86b0-e23d-40cc-b068-7b99392598fc]</Target>
+                <SourceFieldId>0xe9b9bf64</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="113">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [63ad86b0-e23d-40cc-b068-7b99392598fc]</Target>
+                <SourceFieldId>0xe9b9bf65</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="114">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [893757e7-c2f2-442a-a1af-95de7699ec63]</Target>
+                <SourceFieldId>0xe9b9bf4d</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="115">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [893757e7-c2f2-442a-a1af-95de7699ec63]</Target>
+                <SourceFieldId>0xe9b9bf4c</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="116">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [893757e7-c2f2-442a-a1af-95de7699ec63]</Target>
+                <SourceFieldId>0xe9b9bf4f</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="117">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [893757e7-c2f2-442a-a1af-95de7699ec63]</Target>
+                <SourceFieldId>0xe9b9bf4e</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="118">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [249106ba-25ec-437e-9ee2-02cd9f325582]</Target>
+                <SourceFieldId>0xe9b9bf49</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="119">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [249106ba-25ec-437e-9ee2-02cd9f325582]</Target>
+                <SourceFieldId>0xe9b9bf48</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="120">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [249106ba-25ec-437e-9ee2-02cd9f325582]</Target>
+                <SourceFieldId>0xf79143d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="121">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [249106ba-25ec-437e-9ee2-02cd9f325582]</Target>
+                <SourceFieldId>0xe9b9bf4b</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="122">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [be5682ad-78bd-4dd7-bc45-d0a8b8bc3bc0]</Target>
+                <SourceFieldId>0xe9b9bf4a</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="123">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [be5682ad-78bd-4dd7-bc45-d0a8b8bc3bc0]</Target>
+                <SourceFieldId>0xe9b9bf45</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="124">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [be5682ad-78bd-4dd7-bc45-d0a8b8bc3bc0]</Target>
+                <SourceFieldId>0xe9b9bf44</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="125">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [be5682ad-78bd-4dd7-bc45-d0a8b8bc3bc0]</Target>
+                <SourceFieldId>0x20f186d5</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="126">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [3246f232-722f-4a40-a885-d4a2776025f4]</Target>
+                <SourceFieldId>0x20f186d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="127">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [3246f232-722f-4a40-a885-d4a2776025f4]</Target>
+                <SourceFieldId>0x20f186d7</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="128">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [3246f232-722f-4a40-a885-d4a2776025f4]</Target>
+                <SourceFieldId>0x20f186d6</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="129">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [3246f232-722f-4a40-a885-d4a2776025f4]</Target>
+                <SourceFieldId>0x20f186d1</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="130">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [8fa84802-29a0-49c7-ad3a-97e01178c550]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="131">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [cd2bdadf-4ddf-4d10-b838-ae2f439639f8]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="132">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [0cbb9775-fa9c-4ec9-9b7b-58ee8cf5b432]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="133">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a1a07fab-dd3f-45b1-9020-d22d206fd211]</Target>
+                <SourceFieldId>0x20f186d0</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="134">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a1a07fab-dd3f-45b1-9020-d22d206fd211]</Target>
+                <SourceFieldId>0x20f186d3</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="135">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a1a07fab-dd3f-45b1-9020-d22d206fd211]</Target>
+                <SourceFieldId>0x20f186d2</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="136">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [a1a07fab-dd3f-45b1-9020-d22d206fd211]</Target>
+                <SourceFieldId>0xf79143d7</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="137">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [adf9d758-7a97-4f85-9f05-d9d1cb6bbbc1]</Target>
+                <SourceFieldId>0x20f186dd</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="138">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [adf9d758-7a97-4f85-9f05-d9d1cb6bbbc1]</Target>
+                <SourceFieldId>0x20f186dc</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="139">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [adf9d758-7a97-4f85-9f05-d9d1cb6bbbc1]</Target>
+                <SourceFieldId>0x20f186f4</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="140">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [adf9d758-7a97-4f85-9f05-d9d1cb6bbbc1]</Target>
+                <SourceFieldId>0x20f186f5</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="141">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [558967c5-4c62-4cbd-99a4-a1128fdf7b2e]</Target>
+                <SourceFieldId>0x20f186f6</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="142">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [30318888-d148-4c12-99e8-6976a8dad52a]</Target>
+                <SourceFieldId>0x20f186f7</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="143">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [30318888-d148-4c12-99e8-6976a8dad52a]</Target>
+                <SourceFieldId>0x20f186f0</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="144">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [30318888-d148-4c12-99e8-6976a8dad52a]</Target>
+                <SourceFieldId>0x20f186f1</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="145">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [30318888-d148-4c12-99e8-6976a8dad52a]</Target>
+                <SourceFieldId>0x20f186f2</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="146">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [1b2b5725-75ea-4f9c-9056-f21ef875bbbd]</Target>
+                <SourceFieldId>0x20f186f3</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="147">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [916a9a6b-8dba-40bf-af04-a3b264efe1eb]</Target>
+                <SourceFieldId>0x20f186fc</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="148">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [916a9a6b-8dba-40bf-af04-a3b264efe1eb]</Target>
+                <SourceFieldId>0x20f186fd</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="149">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [916a9a6b-8dba-40bf-af04-a3b264efe1eb]</Target>
+                <SourceFieldId>0x20f18717</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="150">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [5956a574-abca-4ae3-aa7d-bee1f8972d62]</Target>
+                <SourceFieldId>0x20f18716</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="151">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fb63e0d3-f2f8-4b91-866a-465acce5700d]</Target>
+                <SourceFieldId>0x20f18715</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="152">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fb63e0d3-f2f8-4b91-866a-465acce5700d]</Target>
+                <SourceFieldId>0x20f18714</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="153">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fb63e0d3-f2f8-4b91-866a-465acce5700d]</Target>
+                <SourceFieldId>0x20f18713</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="154">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [fb63e0d3-f2f8-4b91-866a-465acce5700d]</Target>
+                <SourceFieldId>0x20f18712</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="155">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [2c2f89db-67dc-4c4c-8000-0c4aa029ca49]</Target>
+                <SourceFieldId>0x20f18711</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="156">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [2c2f89db-67dc-4c4c-8000-0c4aa029ca49]</Target>
+                <SourceFieldId>0x20f18710</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="157">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [2c2f89db-67dc-4c4c-8000-0c4aa029ca49]</Target>
+                <SourceFieldId>0x20f1871f</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="158">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [2c2f89db-67dc-4c4c-8000-0c4aa029ca49]</Target>
+                <SourceFieldId>0x20f1871e</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="159">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [decd7d5e-72c6-4fe1-a317-535e95f95b97]</Target>
+                <SourceFieldId>0x20f18736</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="160">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [decd7d5e-72c6-4fe1-a317-535e95f95b97]</Target>
+                <SourceFieldId>0x20f186dc</SourceFieldId>
+                <TargetFieldId>0x53b58be4</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="161">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [decd7d5e-72c6-4fe1-a317-535e95f95b97]</Target>
+                <SourceFieldId>0x20f18737</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="162">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [decd7d5e-72c6-4fe1-a317-535e95f95b97]</Target>
+                <SourceFieldId>0x20f18734</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="163">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [edfcf2ac-6e37-49e2-ab7d-e92d9aff6aa7]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="164">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [edfcf2ac-6e37-49e2-ab7d-e92d9aff6aa7]</Target>
+                <SourceFieldId>0x20f18735</SourceFieldId>
+                <TargetFieldId>0xd1650a34</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="165">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [edfcf2ac-6e37-49e2-ab7d-e92d9aff6aa7]</Target>
+                <SourceFieldId>0x20f18732</SourceFieldId>
+                <TargetFieldId>0xf5096a04</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="166">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [20815de0-5cae-4196-a79f-0da19ce222a3]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="167">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [20815de0-5cae-4196-a79f-0da19ce222a3]</Target>
+                <SourceFieldId>0x20f18733</SourceFieldId>
+                <TargetFieldId>0xc0fedf97</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="168">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [a64600a7-e0bd-4a22-a443-1776e7fd93d5]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="169">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [a64600a7-e0bd-4a22-a443-1776e7fd93d5]</Target>
+                <SourceFieldId>0x20f18733</SourceFieldId>
+                <TargetFieldId>0xc0fedf97</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="170">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [1809eb51-cbe4-458c-aeb2-63a637535059]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="171">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [1809eb51-cbe4-458c-aeb2-63a637535059]</Target>
+                <SourceFieldId>0x20f18733</SourceFieldId>
+                <TargetFieldId>0xc0fedf97</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="172">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [8409424d-e5f4-45fc-bd1e-3d3d935aa542]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="173">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [8409424d-e5f4-45fc-bd1e-3d3d935aa542]</Target>
+                <SourceFieldId>0x20f18733</SourceFieldId>
+                <TargetFieldId>0xc0fedf97</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="174">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [a8ce2924-ae05-4eee-bbd6-13b8d6211163]</Target>
+                <SourceFieldId>0xf79143d4</SourceFieldId>
+                <TargetFieldId>0xdc1a23fa</TargetFieldId>
+                <Flags>0x00000011</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="175">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [a8ce2924-ae05-4eee-bbd6-13b8d6211163]</Target>
+                <SourceFieldId>0x20f18733</SourceFieldId>
+                <TargetFieldId>0xc0fedf97</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+    </PropertyConnections>
+    <LinkConnections Count="0"></LinkConnections>
+    <Interface>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000003</Interface>
+    <Flags>000F</Flags>
+    <EventConnections Count="0"></EventConnections>
+    <Objects Count="2">
+        <member Index="0">[WorldPartReferenceObjectData] 00000000-0000-0000-0000-000000000001</member>
+        <member Index="1">[WorldPartReferenceObjectData] 00000000-0000-0000-0000-000000000002</member>
+    </Objects>
+    <TimeDeltaType>TimeDeltaType_None</TimeDeltaType>
+    <RuntimeMaterialGrid>nullptr</RuntimeMaterialGrid>
+    <PersistenceSetting>BlueprintPersistenceSetting_InheritFromParent</PersistenceSetting>
+    <AutoAssetCollector>nullptr</AutoAssetCollector>
+    <IsWin32SubLevel>True</IsWin32SubLevel>
+    <IsXenonSubLevel>True</IsXenonSubLevel>
+    <IsPs3SubLevel>True</IsPs3SubLevel>
+    <IsGen4aSubLevel>True</IsGen4aSubLevel>
+    <IsGen4bSubLevel>True</IsGen4bSubLevel>
+    <IsAndroidSubLevel>True</IsAndroidSubLevel>
+    <IsIOSSubLevel>True</IsIOSSubLevel>
+    <IsOSXSubLevel>True</IsOSXSubLevel>
+    <IsLinuxSubLevel>True</IsLinuxSubLevel>
+</SubWorldData>
+<WorldPartReferenceObjectData Guid="00000000-0000-0000-0000-000000000001">
+    <Flags>0x005ed75c</Flags>
+    <Blueprint>[Ebx] levels/level_coop_timepark/aispawngrid/layer0_aispawns [43f2bc4d-4eb9-4f7b-baa2-a47c459d78b4]</Blueprint>
+    <BlueprintTransform>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </BlueprintTransform>
+    <ObjectVariation>nullptr</ObjectVariation>
+    <StreamRealm>StreamRealm_None</StreamRealm>
+    <RadiosityTypeOverride>RadiosityTypeOverride_None</RadiosityTypeOverride>
+    <LightmapResolutionScale>0x00000001</LightmapResolutionScale>
+    <RenderingOverrides>
+        <RenderingOverrides>
+            <ShadowEnable>RenderingOverride_Inherit</ShadowEnable>
+            <DynamicReflectionEnable>RenderingOverride_Inherit</DynamicReflectionEnable>
+            <StaticReflectionEnable>RenderingOverride_Inherit</StaticReflectionEnable>
+        </RenderingOverrides>
+    </RenderingOverrides>
+    <CastSunShadowEnable>True</CastSunShadowEnable>
+    <CastReflectionEnable>True</CastReflectionEnable>
+    <CastEnvmapEnable>True</CastEnvmapEnable>
+    <Excluded>False</Excluded>
+</WorldPartReferenceObjectData>
+<WorldPartReferenceObjectData Guid="00000000-0000-0000-0000-000000000002">
+    <Flags>0x007759e7</Flags>
+    <Blueprint>[Ebx] levels/level_coop_timepark/aispawngrid/layer1_epicspawns [2d054e2d-0c52-486d-bf8f-aaea6b920a0c]</Blueprint>
+    <BlueprintTransform>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </BlueprintTransform>
+    <ObjectVariation>nullptr</ObjectVariation>
+    <StreamRealm>StreamRealm_None</StreamRealm>
+    <RadiosityTypeOverride>RadiosityTypeOverride_None</RadiosityTypeOverride>
+    <LightmapResolutionScale>0x00000001</LightmapResolutionScale>
+    <RenderingOverrides>
+        <RenderingOverrides>
+            <ShadowEnable>RenderingOverride_Inherit</ShadowEnable>
+            <DynamicReflectionEnable>RenderingOverride_Inherit</DynamicReflectionEnable>
+            <StaticReflectionEnable>RenderingOverride_Inherit</StaticReflectionEnable>
+        </RenderingOverrides>
+    </RenderingOverrides>
+    <CastSunShadowEnable>True</CastSunShadowEnable>
+    <CastReflectionEnable>True</CastReflectionEnable>
+    <CastEnvmapEnable>True</CastEnvmapEnable>
+    <Excluded>False</Excluded>
+</WorldPartReferenceObjectData>
+<InterfaceDescriptorData Guid="00000000-0000-0000-0000-000000000003">
+    <Fields Count="136">
+        <member Index="0">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="1">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="2">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="3">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="4">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.2047424,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="5">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.3748169,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="6">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.1856766,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="7">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.2469559,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143d3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="8">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1501846,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143dc</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="9">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.0353775,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xf79143dd</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="10">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.1415939,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be45</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="11">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.077034,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be44</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="12">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.22612,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be47</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="13">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.03125,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be46</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="14">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.05978394,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be41</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="15">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.06056976,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be40</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="16">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.125,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be43</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="17">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.187027,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be42</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="18">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.06077576,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be4d</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="19">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.2202377,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be4c</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="20">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.05859375,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="21">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.05859375,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="22">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.05859375,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="23">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.05859375,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="24">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,4.577637E-05,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="25">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-7.629395E-05,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="26">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.0003967285,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="27">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.0004501343,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bea1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="28">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.05664063,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9beae</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="29">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.05664063,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9beaf</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="30">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.05664063,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be87</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="31">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.05664063,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be86</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="32">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.02913666,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be85</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="33">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.01353455,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be84</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="34">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.1857529,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be83</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="35">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.1857529,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be82</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="36">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.1577988,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be81</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="37">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1857529,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be80</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="38">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.1857529,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be8f</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="39">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.05580902,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be8e</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="40">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.04079437,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="41">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.04164886,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="42">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.09656525,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="43">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.01356506,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="44">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.1364365,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="45">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.2126846,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="46">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.07022095,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="47">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.1031876,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="48">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.2093201,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde8</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="49">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.06098938,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bde9</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="50">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.04925537,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="51">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1214371,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="52">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.05044556,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="53">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.359375,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="54">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.1238174,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="55">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.07801819,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="56">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.02053833,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="57">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.1007538,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="58">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.03220367,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc9</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="59">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.08859253,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bdc8</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="60">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.1576538,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be22</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="61">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.1907578,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be23</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="62">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.02357483,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be20</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="63">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1829224,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be21</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="64">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.1058884,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be26</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="65">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.2947693,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be27</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="66">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.05654144,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be24</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="67">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1346207,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be25</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="68">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.2403717,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be2a</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="69">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.0499649,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be2b</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="70">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.03983307,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be03</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="71">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.1924057,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be02</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="72">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.05177307,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be01</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="73">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.1952133,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be00</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="74">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.06552124,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be07</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="75">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1158447,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be06</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="76">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.1515732,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be05</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="77">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.06717682,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be04</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="78">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.1005554,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be0b</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="79">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.01565552,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9be0a</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="80">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.3159332,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6c</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="81">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.1678238,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6d</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="82">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.006271362,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6e</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="83">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.2303085,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6f</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="84">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.05407715,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf68</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="85">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.1056366,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf69</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="86">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.1223373,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6a</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="87">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.1403122,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf6b</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="88">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.06185913,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf64</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="89">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.1595612,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf65</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="90">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.3750153,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4d</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="91">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.2795258,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4c</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="92">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.03904724,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4f</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="93">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,-0.1581268,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4e</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="94">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.3059921,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf49</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="95">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.5005798,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf48</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="96">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.01136017,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4b</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="97">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-0.2552109,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf4a</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="98">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.2302704,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf45</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="99">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.09428406,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xe9b9bf44</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="100">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.01561737,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="101">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.3124924,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="102">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.3285522,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="103">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.02867889,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="104">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.4370804,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="105">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,7.629395E-06,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="106">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-1.525879E-05,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="107">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.04650879,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186d2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="108">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-7.629395E-06,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186dd</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="109">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-7.629395E-06,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186dc</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="110">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.0846405,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f4</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="111">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.07125854,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f5</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="112">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.07772064,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f6</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="113">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1942215,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f7</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="114">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.01460266,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="115">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.002967834,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f1</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="116">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.01859283,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f2</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="117">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,-1.525879E-05,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186f3</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="118">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.1881332,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186fc</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="119">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-1.525879E-05,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f186fd</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="120">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.08945465,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18717</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="121">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.4642563,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18716</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="122">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.03125,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18715</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="123">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,0.11306,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18714</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="124">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.0009460449,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18713</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="125">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.0009460449,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18712</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="126">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,0.002716064,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18711</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="127">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,1),(0,1,0),(-1,0,-4.371139E-08),(-2.5,-0.001014709,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18710</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="128">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,0.001235962,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f1871f</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="129">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.1065826,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f1871e</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="130">
+            <DataField>
+                <Value>LinearTransform ((-4.371139E-08,0,-1),(0,1,0),(1,0,-4.371139E-08),(2.5,1.525879E-05,0))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18736</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="131">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-7.629395E-06,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18737</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="132">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,7.629395E-06,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18734</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="133">
+            <DataField>
+                <Value>LinearTransform ((1,0,0),(0,1,0),(0,0,1),(0,-0.0001525879,2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18735</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="134">
+            <DataField>
+                <Value>LinearTransform ((-1,0,-8.742278E-08),(0,1,0),(8.742278E-08,0,-1),(0,0.0001525879,-2.5))</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18732</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+        <member Index="135">
+            <DataField>
+                <Value>Boolean True</Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x20f18733</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+    </Fields>
+    <InputEvents Count="0"></InputEvents>
+    <OutputEvents Count="0"></OutputEvents>
+    <InputLinks Count="0"></InputLinks>
+    <OutputLinks Count="0"></OutputLinks>
+</InterfaceDescriptorData>

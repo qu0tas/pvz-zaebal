@@ -48,7 +48,7 @@ Do not equate a self-generated fixture with an independent Frosty round-trip. St
 
 ## Handle Frosty work only when requested
 
-1. Obtain local exports from the user's own game/project. Consult `reference/game-originals-manifest.json` for prior baseline filenames, resource paths and hashes; raw exports are intentionally absent.
+1. Obtain local exports from the user's own game/project. Consult `reference/game-originals-manifest.json` for prior baseline filenames, resource paths and hashes; the historical manifest has metadata only. The owner explicitly requested ten baseline files in `originals/`, listed in its own manifest, and three BINs embedded in HTML for automatic startup validation. Other raw exports and generated test outputs must remain local.
 2. Use `scripts/check_originals.py` to identify baseline files; a version mismatch is not automatically corruption. Use the optional legacy EBX reader as a diagnostic, not a universal parser/writer.
 3. Distinguish original resources, imported project state, exported FBMOD and enabled Mod Manager version. Earlier repeated XML exports were identical because files were selected from a Test06 folder, not Test07. Inspect the actual Frosty import log path instead of blaming the user or guessing.
 4. Verify all subgroup GUIDs and requested IDs against the map registry, selected group/composition, and event graph. Handle regenerated non-exported XML GUIDs by semantic object identity, not raw temporary GUID equality.

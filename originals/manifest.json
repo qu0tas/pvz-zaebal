@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "AISpawnGrid.bin",
+    "size": 23776,
+    "sha256": "851627c647e99193f764098fc5eb08956cdc46aa4af54b53fcd4daee8caf5f5f",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "AISpawnGrid.xml",
+    "size": 143879,
+    "sha256": "87455b22f75baa8a339c918e1b944e907f32c449eb9a25a1dd1acf639863fab3",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "CoOps_ChallengeSelector.bin",
+    "size": 13872,
+    "sha256": "5e272e5375d7418f605337c16dba9ddaadbcebe84080eaa7335547901b5fa59e",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "CoOps_ChallengeSelector.xml",
+    "size": 186029,
+    "sha256": "4d66877cca8612e529f60a22ce4322cce87a23965a8f77803aa244835f706b97",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "CoOps_SlotMachine_RewardSpin.bin",
+    "size": 5488,
+    "sha256": "144bf8fca907ccf03c7b025d9277e1c03ffff375a17e1292e0916efdd20be8a1",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "CoOps_SlotMachine_RewardSpin.xml",
+    "size": 36671,
+    "sha256": "62c5dc26a3d32d4897ab95b165403a5b8f72aa7a97bd57c5787034f70324f2a4",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "GardenOps_WaveLogic.bin",
+    "size": 37936,
+    "sha256": "93930bed454f2b2c31bf681092fd4fb2994311a50fc95e8f2683ebeebd85ee02",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "GardenOps_WaveLogic.xml",
+    "size": 825161,
+    "sha256": "b70aa9a144751d723e25e7092adb02f2e7bdec2d218011c280912daba4ca88de",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "GardenOps_WaveTree.bin",
+    "size": 179072,
+    "sha256": "0b726566ae920eac702bd42e2f2d011af374909fca8592d167762681385b898d",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  },
+  {
+    "filename": "GardenOps_WaveTree.xml",
+    "size": 2185783,
+    "sha256": "7d3589a95dd7834ba400e2c5c66af760c89c2c479d343b404dd6c4ba22bebffa",
+    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+  }
+]

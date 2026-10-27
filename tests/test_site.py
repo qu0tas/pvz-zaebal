@@ -36,6 +36,19 @@ class SiteTests(unittest.TestCase):
   s=build.load('data/bin-schema.json');groups=[g['array']['index'] for g in s['tree']['groups']];main=[g['numMain']['index'] for g in s['tree']['subgroups'].values()];self.assertEqual(len(groups),len(set(groups)));self.assertEqual(len(main),len(set(main)))
  def test_builder_sources_embedded(self):
   html=(ROOT/'index.html').read_text(encoding='utf-8');self.assertIn('id="bin-schema"',html);self.assertIn('id="binInputs"',html);self.assertNotIn('__BIN_',html)
- def test_no_bundled_game_exports(self):
-  for pattern in ['*.bin','*.fbmod','*.fbproject','*.xml']:self.assertFalse(list(ROOT.rglob(pattern)),pattern)
+ def test_bundled_originals_allowlist(self):
+  manifest=build.load('originals/manifest.json');allowed={ROOT/'originals'/r['filename'] for r in manifest};self.assertEqual(len(allowed),10)
+  for r in manifest:
+   b=(ROOT/'originals'/r['filename']).read_bytes();self.assertEqual(len(b),r['size']);self.assertEqual(hashlib.sha256(b).hexdigest(),r['sha256'])
+  for pattern in ['*.bin','*.xml']:self.assertTrue({p for p in ROOT.rglob(pattern) if not {'artifacts','_site'}.intersection(p.relative_to(ROOT).parts)}.issubset(allowed))
+  for pattern in ['*.fbmod','*.fbproject']:self.assertFalse(list(ROOT.rglob(pattern)),pattern)
+ def test_deployment_copies_originals(self):
+  import tempfile,subprocess
+  with tempfile.TemporaryDirectory() as tmp:
+   output=Path(tmp)/'index.html';subprocess.run([sys.executable,str(ROOT/'scripts/build.py'),'--output',str(output)],check=True,capture_output=True)
+   for row in build.load('originals/manifest.json'):self.assertEqual((Path(tmp)/'originals'/row['filename']).read_bytes(),(ROOT/'originals'/row['filename']).read_bytes())
+ def test_embedded_baselines(self):
+  import base64
+  bundled=build.originals();schema=build.load('data/bin-schema.json');self.assertEqual(len(bundled),3)
+  for key,text in bundled.items():self.assertEqual(hashlib.sha256(base64.b64decode(text)).hexdigest(),schema['files'][key]['sha256'])
 if __name__=='__main__':unittest.main()
