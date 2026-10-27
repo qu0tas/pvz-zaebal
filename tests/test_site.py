@@ -37,7 +37,7 @@ class SiteTests(unittest.TestCase):
  def test_builder_sources_embedded(self):
   html=(ROOT/'index.html').read_text(encoding='utf-8');self.assertIn('id="bin-schema"',html);self.assertIn('id="binInputs"',html);self.assertNotIn('__BIN_',html)
  def test_bundled_originals_allowlist(self):
-  manifest=build.load('originals/manifest.json');allowed={ROOT/'originals'/r['filename'] for r in manifest};self.assertEqual(len(allowed),10)
+  manifest=build.load('originals/manifest.json');allowed={ROOT/'originals'/r['filename'] for r in manifest};self.assertEqual(len(allowed),42)
   for r in manifest:
    b=(ROOT/'originals'/r['filename']).read_bytes();self.assertEqual(len(b),r['size']);self.assertEqual(hashlib.sha256(b).hexdigest(),r['sha256'])
   for pattern in ['*.bin','*.xml']:self.assertTrue({p for p in ROOT.rglob(pattern) if not {'artifacts','_site'}.intersection(p.relative_to(ROOT).parts)}.issubset(allowed))
@@ -46,9 +46,27 @@ class SiteTests(unittest.TestCase):
   import tempfile,subprocess
   with tempfile.TemporaryDirectory() as tmp:
    output=Path(tmp)/'index.html';subprocess.run([sys.executable,str(ROOT/'scripts/build.py'),'--output',str(output)],check=True,capture_output=True)
+   self.assertEqual((Path(tmp)/'graveyard.html').read_text(),build.render('graveyard'))
    for row in build.load('originals/manifest.json'):self.assertEqual((Path(tmp)/'originals'/row['filename']).read_bytes(),(ROOT/'originals'/row['filename']).read_bytes())
+ def test_graveyard_page_current(self):self.assertEqual((ROOT/'graveyard.html').read_text(encoding='utf-8'),build.render('graveyard'))
+ def test_graveyard_profiles(self):
+  s=build.load('data/graveyard-profile.json');self.assertEqual(len(build.load('data/graveyard-catalog.json')),105);self.assertEqual(s['tree']['rootGroups']['count'],105);self.assertEqual(s['logic']['connections']['count'],737);self.assertEqual(len(s['files']),5)
+ def test_services_preserved(self):
+  s=build.load('data/graveyard-profile.json');g=next(g for g in s['tree']['groups'] if g['node']=='Wave00');routes=[r for r in s['logic']['routes'] if r['original']==g['startEvent']];self.assertTrue(g['service']);self.assertTrue(routes);self.assertTrue(all(r['wave']==0 for r in routes))
+ def test_shared_resources_and_array_aliases(self):
+  garden=build.load('data/garden-profile.json');grave=build.load('data/graveyard-profile.json');self.assertEqual(garden['shared'],grave['shared']);self.assertEqual(garden['grid'],grave['grid'])
+  for s in [garden,grave]:
+   for values in [[g['array']['index'] for g in s['tree']['groups']],[sub['numMain']['index'] for sub in s['tree']['subgroups'].values()]]:self.assertEqual(len(values),len(set(values)))
+   self.assertEqual(len(s['shared']['challenge']['routes']),20)
+ def test_graveyard_embedded_baselines(self):
+  import base64
+  schema=build.load('data/graveyard-profile.json')
+  for key,text in build.originals('graveyard').items():self.assertEqual(hashlib.sha256(base64.b64decode(text)).hexdigest(),schema['files'][key]['sha256'])
+ def test_profiles_reproducible(self):
+  import subprocess
+  subprocess.run([sys.executable,str(ROOT/'scripts/generate_ops_profiles.py'),'--check'],check=True,capture_output=True)
  def test_embedded_baselines(self):
   import base64
-  bundled=build.originals();schema=build.load('data/bin-schema.json');self.assertEqual(len(bundled),3)
+  bundled=build.originals();schema=build.load('data/garden-profile.json');self.assertEqual(len(bundled),5)
   for key,text in bundled.items():self.assertEqual(hashlib.sha256(base64.b64decode(text)).hexdigest(),schema['files'][key]['sha256'])
 if __name__=='__main__':unittest.main()

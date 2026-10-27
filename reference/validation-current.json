@@ -1,0 +1,27 @@
+{
+  "release": "two-mode-five-bin-editor",
+  "status": "STATIC_CHECKED_NOT_GAME_TESTED",
+  "pythonTests": 18,
+  "syntheticJsChecks": 12,
+  "baselineProfileChecks": 30,
+  "groupCompositionCases": 530,
+  "modes": [
+    "garden",
+    "graveyard"
+  ],
+  "outputBinsPerMode": 5,
+  "originalFiles": 42,
+  "browserSmoke": "PASS: GUI/JSON/ZIP CRC+SHA, reload, controls, separate storage, historical Garden hashes",
+  "independentSemanticChecks": "PASS: full expected diffs on five BIN per mode",
+  "visualChecks": "Desktop/mobile routes, custom settings, JSON error, limits and builder inspected; UI defects corrected",
+  "frostyRoundtrip": "NOT_RUN",
+  "gameRuntime": "NOT_RUN",
+  "remoteGithub": "NOT_MODIFIED",
+  "limitations": [
+    "Experimental fixed-point method, not a proven spawn fix",
+    "Native challenge substitution is not full challenge disable",
+    "Visual wheel and actual payouts require game test",
+    "Shared resources: conflicting Garden/Graveyard mods must not be enabled together",
+    "No AMBUSH lifecycle, new enemy classes or FBMOD writer"
+  ]
+}

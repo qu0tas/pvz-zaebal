@@ -22,6 +22,10 @@ jobs:
         with:
           node-version: '22'
       - run: node tests/bin_builder.cjs
+      - run: python scripts/generate_ops_profiles.py --check
+      - run: node tests/ops_profiles.cjs
+      - run: python scripts/verify_generated.py artifacts/ops-tests/garden
+      - run: python scripts/verify_generated.py artifacts/ops-tests/graveyard
       - run: python scripts/build.py --check
       - run: python -m unittest discover -s tests -v
       - run: python scripts/build.py --output _site/index.html

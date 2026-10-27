@@ -3,60 +3,252 @@
     "filename": "AISpawnGrid.bin",
     "size": 23776,
     "sha256": "851627c647e99193f764098fc5eb08956cdc46aa4af54b53fcd4daee8caf5f5f",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "AISpawnGrid.xml",
     "size": 143879,
     "sha256": "87455b22f75baa8a339c918e1b944e907f32c449eb9a25a1dd1acf639863fab3",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "CoOps_BossWave.bin",
+    "size": 23152,
+    "sha256": "9a0857daea56b2c4ff19e0e91e20b009f8a22acb3fd7b1480b5f7a4814152dd8",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "CoOps_BossWave.xml",
+    "size": 288132,
+    "sha256": "8c24537ba550dea22ec9246dff35275859d3b3e48cfb5deb90cb0cd47ccd5a80",
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "CoOps_ChallengeSelector.bin",
     "size": 13872,
     "sha256": "5e272e5375d7418f605337c16dba9ddaadbcebe84080eaa7335547901b5fa59e",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "CoOps_ChallengeSelector.xml",
     "size": 186029,
     "sha256": "4d66877cca8612e529f60a22ce4322cce87a23965a8f77803aa244835f706b97",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "CoOps_SlotMachine_RewardSpin.bin",
     "size": 5488,
     "sha256": "144bf8fca907ccf03c7b025d9277e1c03ffff375a17e1292e0916efdd20be8a1",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "CoOps_SlotMachine_RewardSpin.xml",
     "size": 36671,
     "sha256": "62c5dc26a3d32d4897ab95b165403a5b8f72aa7a97bd57c5787034f70324f2a4",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "GardenOps_WaveLogic.bin",
     "size": 37936,
     "sha256": "93930bed454f2b2c31bf681092fd4fb2994311a50fc95e8f2683ebeebd85ee02",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "GardenOps_WaveLogic.xml",
     "size": 825161,
     "sha256": "b70aa9a144751d723e25e7092adb02f2e7bdec2d218011c280912daba4ca88de",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "GardenOps_WaveTree.bin",
     "size": 179072,
     "sha256": "0b726566ae920eac702bd42e2f2d011af374909fca8592d167762681385b898d",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
   },
   {
     "filename": "GardenOps_WaveTree.xml",
     "size": 2185783,
     "sha256": "7d3589a95dd7834ba400e2c5c66af760c89c2c479d343b404dd6c4ba22bebffa",
-    "source": "User-supplied archive ОРИГИБИН И ХМЛ.zip"
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set03GiftPackage.bin",
+    "size": 8800,
+    "sha256": "92b8b721ee6d8b47fc500418fd4c0a1d97e6ca3f7315ea1c5f69b0257b7234b5",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set03GiftPackage.xml",
+    "size": 35992,
+    "sha256": "0ee20c569d71478e702377f8460dc72f5fb14f8599a44d72b32e0a186cf0864e",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set03_Specials.bin",
+    "size": 5792,
+    "sha256": "cf400fbfeabf29ed73f2f3ae17cb6328a223b1e0a1f89e123b2a750c95e2c869",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set03_Specials.xml",
+    "size": 52638,
+    "sha256": "d155598a6d0c2d1df303402524298fb9d7c1e87bb30468d31a07b26d24bedbd2",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set04_Specials.bin",
+    "size": 4608,
+    "sha256": "b5ab116dde17ce347606b3916823296c9dbfc6b2eefa3dabf49bfceb9da949ab",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup01_Set04_Specials.xml",
+    "size": 16764,
+    "sha256": "0655f8769c4f020a28a895f5c752e02d7c960eaf3ffd93aea9ad5a9641706347",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set02_Specials.bin",
+    "size": 4608,
+    "sha256": "afe57c87fdb41fd6dd2b07eeca5a2934074e4932393d05418e97002a006d724e",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set02_Specials.xml",
+    "size": 16721,
+    "sha256": "727b6fbf8f37e8b1869bd814d722e2904da04c217edcbba9af09326c747a3b5a",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set03_Specials.bin",
+    "size": 5712,
+    "sha256": "3205e9cf07be5c5e9b812e62a049342a43d6ebb5bc036fe845ab52ed51285ed0",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set03_Specials.xml",
+    "size": 50325,
+    "sha256": "d80b4e0482fca4e291712ddd39d8f874412b0799d56ceefca36ab11fdbfb67f8",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set04_Specials.bin",
+    "size": 4640,
+    "sha256": "3742d5b74a43142f04c1ef7e64568dc8f8a3fbd95360aab4e9c9a9f54cfab617",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroup02_Set04_Specials.xml",
+    "size": 17676,
+    "sha256": "0239e6156673b935929e05ce34e7abcb3ba4525b19d606dc627f5faf47a8a9a0",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroups_Checkpoint.bin",
+    "size": 9808,
+    "sha256": "b21a4a9dcbab274b60f15d5fee7de0b62b5c687b4e2c69c8017698123ee50767",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveGroups_Checkpoint.xml",
+    "size": 111164,
+    "sha256": "ff150197ef424b295480aa2736999c02b174eaed448e1408538862831629fbeb",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveLogic.bin",
+    "size": 32992,
+    "sha256": "a2415781a92370a403cb70cd002039916e2958defe73a4341f77e133e41e3d35",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveLogic.xml",
+    "size": 663978,
+    "sha256": "5a51ea17b1bde78a74ae32bca238f28a75e758d5374cf971d9a8a9ae8a1f5464",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveTree.bin",
+    "size": 124400,
+    "sha256": "bf19426d6e81ab378f274140105e390cb7b3d53f018577fe8186ae8bd4f5d539",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "GraveyardOps_WaveTree.xml",
+    "size": 1341116,
+    "sha256": "630a66d28344f11c6ce897c73e06e602531b119af8ebb064203d4f7ad3cf635d",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer0_graveyardops_logic.bin",
+    "size": 5760,
+    "sha256": "3a001d3fafad732085658fd913ab033aea32cc1cfe9d251dfb5ca82e938e3775",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer0_graveyardops_logic.xml",
+    "size": 8656,
+    "sha256": "404c85467ae02c07862e964eeb67f482672a37ed91b006380ec27eaaf321b488",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer0_graveyardops_wavelogic_schematic.bin",
+    "size": 4848,
+    "sha256": "21668638cb5f54c5f2939818b82f9a6ef4402257c1cd3a818c8072b0a57314b2",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer0_graveyardops_wavelogic_schematic.xml",
+    "size": 3087,
+    "sha256": "0a2850896af2c66a170eac78fb3199167581887bc15eb0b84ded9c57f23850f6",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer11_graveyardops_charlie_spawns.bin",
+    "size": 4144,
+    "sha256": "493099b5a56c393fba3a0115ae33119b4bec5c2b69c58ed3e2e92ab89a81df15",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer11_graveyardops_charlie_spawns.xml",
+    "size": 9273,
+    "sha256": "0f7859b5b34d72c6612169668a9b1aad4eba5dbe1ecca9a968c554baf813a448",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer1_graveyardops_logic_schematic.bin",
+    "size": 6608,
+    "sha256": "90abc652c21bc5fabc805a0b476c9bf1ab0e664a3c443b9221e592749b05375e",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer1_graveyardops_logic_schematic.xml",
+    "size": 9902,
+    "sha256": "7ffaeeecacce4b81e5bd5ae7ee7edf2157324abdd02b78bf11a63fee0c449c9e",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer5_graveyardops_alpha_spawns.bin",
+    "size": 4144,
+    "sha256": "72c2448946a99192cfd09a651e532b6bdd2761cc69978b43c558a2a1fa206e47",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer5_graveyardops_alpha_spawns.xml",
+    "size": 9401,
+    "sha256": "ec3476569e15c8caa9b7e035408d13aa41d75d52caf4668c766571256ffee04d",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer8_graveyardops_bravo_spawns.bin",
+    "size": 4144,
+    "sha256": "0764d7d20656d38c846d5bced4bfdf9f95a41c24f65c1e6f218115b28614867e",
+    "source": "User-provided original export; not independently certified"
+  },
+  {
+    "filename": "layer8_graveyardops_bravo_spawns.xml",
+    "size": 9332,
+    "sha256": "6b61a176028b2d1d9843d2edf38586b635acc03f32783854d4071e11d4ceff2c",
+    "source": "User-provided original export; not independently certified"
   }
 ]

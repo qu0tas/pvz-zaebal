@@ -1,0 +1,840 @@
+<LogicPrefabBlueprint Guid="34adc8a9-4f63-4b7a-a0f0-a6654d2faf28">
+    <Name>Levels_Sandbox/Level_Shawbs_Sandbox/GraveyardOps/GraveyardOps_WaveGroup01_Set03GiftPackage</Name>
+    <PropertyConnections Count="18">
+        <member Index="0">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-00000000000a</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x7c8865d0</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="1">
+            <PropertyConnection>
+                <Source>[BoolEntityData] 00000000-0000-0000-0000-000000000005</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0028a000</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="2">
+            <PropertyConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceFieldId>0x5ba6dcc0</SourceFieldId>
+                <TargetFieldId>0x5ba6dcc0</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="3">
+            <PropertyConnection>
+                <Source>[SchematicChannelEntityData] 00000000-0000-0000-0000-000000000012</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x7052bc8a</SourceFieldId>
+                <TargetFieldId>0x332878fb</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="4">
+            <PropertyConnection>
+                <Source>[SchematicChannelEntityData] 00000000-0000-0000-0000-000000000012</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x7052bc8a</SourceFieldId>
+                <TargetFieldId>0x332878fb</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="5">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-000000000008</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d372</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="6">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-000000000008</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d373</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="7">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-000000000007</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d370</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="8">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d371</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="9">
+            <PropertyConnection>
+                <Source>[FloatEntityData] 00000000-0000-0000-0000-000000000009</Source>
+                <Target>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d376</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="10">
+            <PropertyConnection>
+                <Source>[IntEntityData] 00000000-0000-0000-0000-00000000000f</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d373</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="11">
+            <PropertyConnection>
+                <Source>[IntEntityData] 00000000-0000-0000-0000-00000000000e</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d370</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="12">
+            <PropertyConnection>
+                <Source>[IntEntityData] 00000000-0000-0000-0000-00000000000c</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d371</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="13">
+            <PropertyConnection>
+                <Source>[IntEntityData] 00000000-0000-0000-0000-00000000000d</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d376</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="14">
+            <PropertyConnection>
+                <Source>[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceFieldId>0x0b87df4b</SourceFieldId>
+                <TargetFieldId>0x4a833fda</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="15">
+            <PropertyConnection>
+                <Source>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Source>
+                <Target>[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceFieldId>0x0b87df4b</SourceFieldId>
+                <TargetFieldId>0x0cc971f1</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="16">
+            <PropertyConnection>
+                <Source>[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceFieldId>0xa5f78658</SourceFieldId>
+                <TargetFieldId>0x2f07331c</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="17">
+            <PropertyConnection>
+                <Source>[IntEntityData] 00000000-0000-0000-0000-00000000000f</Source>
+                <Target>[IntHubEntityData] 00000000-0000-0000-0000-000000000010</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x0b87d372</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+    </PropertyConnections>
+    <LinkConnections Count="0"></LinkConnections>
+    <Interface>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Interface>
+    <Flags>000F</Flags>
+    <EventConnections Count="22">
+        <member Index="0">
+            <EventConnection>
+                <Source>[SchematicChannelEntityData] 00000000-0000-0000-0000-000000000012</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x34b2d0dd</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x0d6201b3</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="1">
+            <EventConnection>
+                <Source>[SchematicChannelEntityData] 00000000-0000-0000-0000-000000000012</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x88b97893</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x63fbe364</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="2">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x832c3ca0</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xaea43f61</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="3">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x832c3ca0</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xfc34dc7c</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="4">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xa28dc02d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x78198a54</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="5">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000005</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xa28dc02d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x27d4023a</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="6">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xa28dc02d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x63fbe364</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="7">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x25d781fa</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x17b641bc</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="8">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x50e3613e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x9071ed45</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="9">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x50e3613e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x56ef490e</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="10">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x50e3613e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x3f2230e4</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="11">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x50e3613e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x7c83beb1</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="12">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x913aae1f</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xe3cadb8f</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="13">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x913aae1f</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x2f3d6985</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="14">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x913aae1f</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x7c83beb1</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="15">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x654dc07d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xe6e529c2</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="16">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000005</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x654dc07d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xa4253151</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="17">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000011</Source>
+                <Target>[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x654dc07d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x0cac8853</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="18">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x18703eb1</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x8f419f5b</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="19">
+            <EventConnection>
+                <Source>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Source>
+                <Target>[PrintDebugTextEntityData] 00000000-0000-0000-0000-000000000002</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x913aae1f</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x0dd32774</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="20">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000005</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xae857929</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x27d4023a</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="21">
+            <EventConnection>
+                <Source>[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xae857929</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x63fbe364</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+    </EventConnections>
+    <Objects Count="17">
+        <member Index="0">[FloatEntityData] 00000000-0000-0000-0000-00000000000a</member>
+        <member Index="1">[LogicPrefabReferenceObjectData] 1467fb8b-8810-44ec-aaa1-acbad40cfc5a</member>
+        <member Index="2">[SchematicChannelEntityData] 00000000-0000-0000-0000-000000000012</member>
+        <member Index="3">[AIWaveManagerEntityData] 00000000-0000-0000-0000-000000000004</member>
+        <member Index="4">[BoolEntityData] 00000000-0000-0000-0000-000000000005</member>
+        <member Index="5">[IntEntityData] 00000000-0000-0000-0000-00000000000f</member>
+        <member Index="6">[IntEntityData] 00000000-0000-0000-0000-00000000000e</member>
+        <member Index="7">[IntEntityData] 00000000-0000-0000-0000-00000000000d</member>
+        <member Index="8">[IntEntityData] 00000000-0000-0000-0000-00000000000c</member>
+        <member Index="9">[PrintDebugTextEntityData] 00000000-0000-0000-0000-000000000002</member>
+        <member Index="10">[FloatEntityData] 00000000-0000-0000-0000-000000000006</member>
+        <member Index="11">[FloatEntityData] 00000000-0000-0000-0000-000000000009</member>
+        <member Index="12">[FloatEntityData] 00000000-0000-0000-0000-000000000007</member>
+        <member Index="13">[FloatHubEntityData] 00000000-0000-0000-0000-00000000000b</member>
+        <member Index="14">[FloatEntityData] 00000000-0000-0000-0000-000000000008</member>
+        <member Index="15">[IntHubEntityData] 00000000-0000-0000-0000-000000000010</member>
+        <member Index="16">[PropertyGateEntityData] 00000000-0000-0000-0000-000000000003</member>
+    </Objects>
+    <TimeDeltaType>TimeDeltaType_None</TimeDeltaType>
+</LogicPrefabBlueprint>
+<LogicPrefabReferenceObjectData Guid="1467fb8b-8810-44ec-aaa1-acbad40cfc5a">
+    <Flags>0x1467fb8b</Flags>
+    <LocalPlayerId>LocalPlayerId_Invalid</LocalPlayerId>
+    <SubRealm>SubRealm_All</SubRealm>
+    <Blueprint>[Ebx] Levels_Sandbox/Level_Shawbs_Sandbox/GraveyardOps/GraveyardOps_Challenge_GiftPackage [3b0eecc4-6fb9-41f3-b7de-6dd206b8f41a]</Blueprint>
+    <BlueprintTransform>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </BlueprintTransform>
+    <ObjectVariation>nullptr</ObjectVariation>
+    <StreamRealm>StreamRealm_None</StreamRealm>
+    <RadiosityTypeOverride>RadiosityTypeOverride_None</RadiosityTypeOverride>
+    <LightmapResolutionScale>0x00000000</LightmapResolutionScale>
+    <RenderingOverrides>
+        <RenderingOverrides>
+            <ShadowEnable>RenderingOverride_Inherit</ShadowEnable>
+            <DynamicReflectionEnable>RenderingOverride_Inherit</DynamicReflectionEnable>
+            <StaticReflectionEnable>RenderingOverride_Inherit</StaticReflectionEnable>
+        </RenderingOverrides>
+    </RenderingOverrides>
+    <CastSunShadowEnable>True</CastSunShadowEnable>
+    <CastReflectionEnable>True</CastReflectionEnable>
+    <CastEnvmapEnable>True</CastEnvmapEnable>
+    <Excluded>False</Excluded>
+</LogicPrefabReferenceObjectData>
+<PrintDebugTextEntityData Guid="00000000-0000-0000-0000-000000000002">
+    <Flags>0x045f9b49</Flags>
+    <Realm>Realm_Server</Realm>
+    <TextColor>
+        <Vec3>
+            <x>1</x>
+            <y>1</y>
+            <z>1</z>
+        </Vec3>
+    </TextColor>
+    <Text>GIFT PACKAGE SUCCESS</Text>
+    <ScreenPosition>
+        <Vec2>
+            <x>-1</x>
+            <y>-1</y>
+        </Vec2>
+    </ScreenPosition>
+    <TimeToShow>-1</TimeToShow>
+    <TextScale>1</TextScale>
+    <Enabled>True</Enabled>
+</PrintDebugTextEntityData>
+<PropertyGateEntityData Guid="00000000-0000-0000-0000-000000000003">
+    <Flags>0x14e591c5</Flags>
+    <Realm>Realm_Server</Realm>
+    <Vec3In>
+        <Vec3>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </Vec3>
+    </Vec3In>
+    <Vec4In>
+        <Vec4>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>0</w>
+        </Vec4>
+    </Vec4In>
+    <TransformIn>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </TransformIn>
+    <IntIn>0x00000000</IntIn>
+    <UIntIn>0x00000000</UIntIn>
+    <StringIn></StringIn>
+    <FloatIn>0</FloatIn>
+    <Default>True</Default>
+    <WritePropertyOnOpenGate>False</WritePropertyOnOpenGate>
+    <IsOpen>False</IsOpen>
+    <BoolIn>False</BoolIn>
+</PropertyGateEntityData>
+<AIWaveManagerEntityData Guid="00000000-0000-0000-0000-000000000004">
+    <Realm>Realm_ClientAndServer</Realm>
+    <EntityName>GraveyardOps_WaveGroup01_Set03GiftPackage</EntityName>
+    <MonitoredWaveID></MonitoredWaveID>
+    <KillPlayerDistance>20</KillPlayerDistance>
+    <Enabled>False</Enabled>
+    <Flags>0x15b14fc7</Flags>
+</AIWaveManagerEntityData>
+<BoolEntityData Guid="00000000-0000-0000-0000-000000000005">
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>False</DefaultValue>
+    <Flags>0x059359a2</Flags>
+</BoolEntityData>
+<FloatEntityData Guid="00000000-0000-0000-0000-000000000006">
+    <Flags>0x01b86c0c</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>10</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<FloatEntityData Guid="00000000-0000-0000-0000-000000000007">
+    <Flags>0x00a53244</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>15</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<FloatEntityData Guid="00000000-0000-0000-0000-000000000008">
+    <Flags>0x0115cd85</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>20</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<FloatEntityData Guid="00000000-0000-0000-0000-000000000009">
+    <Flags>0x015be29f</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>10</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<FloatEntityData Guid="00000000-0000-0000-0000-00000000000a">
+    <Flags>0x011b4ced</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>45</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<FloatHubEntityData Guid="00000000-0000-0000-0000-00000000000b">
+    <Flags>0x1093276b</Flags>
+    <Realm>Realm_Server</Realm>
+    <InputCount>0x00000005</InputCount>
+    <InputSelect>0x00000000</InputSelect>
+</FloatHubEntityData>
+<IntEntityData Guid="00000000-0000-0000-0000-00000000000c">
+    <Flags>0x00626b0b</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>0x00000005</DefaultValue>
+    <IncDecValue>0x00000000</IncDecValue>
+    <In>0x00000000</In>
+</IntEntityData>
+<IntEntityData Guid="00000000-0000-0000-0000-00000000000d">
+    <Flags>0x00ea372a</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>0x00000006</DefaultValue>
+    <IncDecValue>0x00000000</IncDecValue>
+    <In>0x00000000</In>
+</IntEntityData>
+<IntEntityData Guid="00000000-0000-0000-0000-00000000000e">
+    <Flags>0x0173763a</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>0x00000004</DefaultValue>
+    <IncDecValue>0x00000000</IncDecValue>
+    <In>0x00000000</In>
+</IntEntityData>
+<IntEntityData Guid="00000000-0000-0000-0000-00000000000f">
+    <Flags>0x00348ca8</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>0x00000003</DefaultValue>
+    <IncDecValue>0x00000000</IncDecValue>
+    <In>0x00000000</In>
+</IntEntityData>
+<IntHubEntityData Guid="00000000-0000-0000-0000-000000000010">
+    <Flags>0x10c9f836</Flags>
+    <Realm>Realm_Server</Realm>
+    <InputCount>0x00000005</InputCount>
+    <InputSelect>0x00000000</InputSelect>
+</IntHubEntityData>
+<InterfaceDescriptorData Guid="00000000-0000-0000-0000-000000000011">
+    <Fields Count="1">
+        <member Index="0">
+            <DataField>
+                <Value></Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0x5ba6dcc0</Id>
+                <AccessType>FieldAccessType_Target</AccessType>
+            </DataField>
+        </member>
+    </Fields>
+    <InputEvents Count="1">
+        <member Index="0">
+            <DynamicEvent>
+                <Id>0x654dc07d</Id>
+            </DynamicEvent>
+        </member>
+    </InputEvents>
+    <OutputEvents Count="4">
+        <member Index="0">
+            <DynamicEvent>
+                <Id>0x9071ed45</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="1">
+            <DynamicEvent>
+                <Id>0xe3cadb8f</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="2">
+            <DynamicEvent>
+                <Id>0x78198a54</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="3">
+            <DynamicEvent>
+                <Id>0xfc34dc7c</Id>
+            </DynamicEvent>
+        </member>
+    </OutputEvents>
+    <InputLinks Count="0"></InputLinks>
+    <OutputLinks Count="0"></OutputLinks>
+</InterfaceDescriptorData>
+<SchematicChannelEntityData Guid="00000000-0000-0000-0000-000000000012">
+    <Flags>0x0179f48e</Flags>
+    <Realm>Realm_ClientAndServer</Realm>
+    <Channel>[Ebx] Gameplay/GameModes/GameModeChannels/GameModeChannel_CoOps [4eb8f69b-7fcb-27c3-1b48-0a205ce6244b]</Channel>
+    <InputProperties Count="0"></InputProperties>
+    <InputRefProperties Count="0"></InputRefProperties>
+    <OutputProperties Count="2">
+        <member Index="0">0x00000009</member>
+        <member Index="1">0x00000009</member>
+    </OutputProperties>
+    <OutputRefProperties Count="0"></OutputRefProperties>
+    <InputPropertiesEnabled>True</InputPropertiesEnabled>
+    <WriteInputPropertiesOnEnabled>False</WriteInputPropertiesOnEnabled>
+    <IsGlobalChannel>False</IsGlobalChannel>
+</SchematicChannelEntityData>

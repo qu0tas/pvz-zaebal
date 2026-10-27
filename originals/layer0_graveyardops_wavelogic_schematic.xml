@@ -1,0 +1,74 @@
+<WorldPartData Guid="e3c3f5b8-56e7-46ee-9b02-2cb3fb83de25">
+    <Name>Levels/Level_Coop_TimePark/GraveyardOps_WaveLogic_Schematic</Name>
+    <PropertyConnections Count="0"></PropertyConnections>
+    <LinkConnections Count="0"></LinkConnections>
+    <Interface>nullptr</Interface>
+    <Flags>0000</Flags>
+    <EventConnections Count="0"></EventConnections>
+    <Objects Count="2">
+        <member Index="0">[LogicPrefabReferenceObjectData] 7e2885c9-fb4a-4166-a303-f98d7d2e8b6c</member>
+        <member Index="1">[StringEntityData] 772ff466-4194-4ebd-ba09-1de8c1b546df</member>
+    </Objects>
+    <TimeDeltaType>TimeDeltaType_None</TimeDeltaType>
+    <HackToSolveRealTimeTweakingIssue>00000000-0000-0000-0000-000000000000</HackToSolveRealTimeTweakingIssue>
+    <Enabled>True</Enabled>
+    <UseDeferredEntityCreation>False</UseDeferredEntityCreation>
+</WorldPartData>
+<StringEntityData Guid="772ff466-4194-4ebd-ba09-1de8c1b546df">
+    <Flags>0x012ff466</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultString>isTimePark</DefaultString>
+</StringEntityData>
+<LogicPrefabReferenceObjectData Guid="7e2885c9-fb4a-4166-a303-f98d7d2e8b6c">
+    <Flags>0x102885c9</Flags>
+    <LocalPlayerId>LocalPlayerId_Invalid</LocalPlayerId>
+    <SubRealm>SubRealm_All</SubRealm>
+    <Blueprint>[Ebx] Levels_Sandbox/Level_Shawbs_Sandbox/GraveyardOps/GraveyardOps_WaveLogic [0d1b95ce-db43-1924-3254-72e7756e590f]</Blueprint>
+    <BlueprintTransform>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </BlueprintTransform>
+    <ObjectVariation>nullptr</ObjectVariation>
+    <StreamRealm>StreamRealm_None</StreamRealm>
+    <RadiosityTypeOverride>RadiosityTypeOverride_None</RadiosityTypeOverride>
+    <LightmapResolutionScale>0x00000000</LightmapResolutionScale>
+    <RenderingOverrides>
+        <RenderingOverrides>
+            <ShadowEnable>RenderingOverride_Inherit</ShadowEnable>
+            <DynamicReflectionEnable>RenderingOverride_Inherit</DynamicReflectionEnable>
+            <StaticReflectionEnable>RenderingOverride_Inherit</StaticReflectionEnable>
+        </RenderingOverrides>
+    </RenderingOverrides>
+    <CastSunShadowEnable>True</CastSunShadowEnable>
+    <CastReflectionEnable>True</CastReflectionEnable>
+    <CastEnvmapEnable>True</CastEnvmapEnable>
+    <Excluded>False</Excluded>
+</LogicPrefabReferenceObjectData>

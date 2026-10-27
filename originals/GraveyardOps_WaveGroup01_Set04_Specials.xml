@@ -1,0 +1,406 @@
+<LogicPrefabBlueprint Guid="05ca3f88-bee5-4413-8dcc-2fb1e1c67fbb">
+    <Name>Levels_Sandbox/Level_Shawbs_Sandbox/GraveyardOps/GraveyardOps_WaveGroup01_Set04_Specials</Name>
+    <PropertyConnections Count="2">
+        <member Index="0">
+            <PropertyConnection>
+                <Source>[BoolEntityData] 00000000-0000-0000-0000-000000000002</Source>
+                <Target>[CompareBoolEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0x7c80c0cb</TargetFieldId>
+                <Flags>0x00000003</Flags>
+            </PropertyConnection>
+        </member>
+        <member Index="1">
+            <PropertyConnection>
+                <Source>[BoolEntityData] 00000000-0000-0000-0000-000000000001</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceFieldId>0x0d6ef36e</SourceFieldId>
+                <TargetFieldId>0xd688377b</TargetFieldId>
+                <Flags>0x00000013</Flags>
+            </PropertyConnection>
+        </member>
+    </PropertyConnections>
+    <LinkConnections Count="0"></LinkConnections>
+    <Interface>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Interface>
+    <Flags>0002</Flags>
+    <EventConnections Count="15">
+        <member Index="0">
+            <EventConnection>
+                <Source>[RandomEventEntityData] 00000000-0000-0000-0000-000000000005</Source>
+                <Target>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xbb06a967</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x00597302</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="1">
+            <EventConnection>
+                <Source>[CompareBoolEntityData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[RandomEventEntityData] 00000000-0000-0000-0000-000000000005</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xaa8e5552</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x00597302</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="2">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[CompareBoolEntityData] 00000000-0000-0000-0000-000000000003</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7b30dd8b</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x00597302</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="3">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000002</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xd661a30e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x27d4023a</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="4">
+            <EventConnection>
+                <Source>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000002</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x867707e2</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xa4253151</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="5">
+            <EventConnection>
+                <Source>[RandomEventEntityData] 00000000-0000-0000-0000-000000000005</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xaa84cdc6</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x7f2074a7</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="6">
+            <EventConnection>
+                <Source>[CompareBoolEntityData] 00000000-0000-0000-0000-000000000003</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xfb1e95d9</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x7f2074a7</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="7">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c89a</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xe2387089</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="8">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c89b</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x86b04bb6</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="9">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c899</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xe2b2973b</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="10">
+            <EventConnection>
+                <Source>[RandomEventEntityData] 00000000-0000-0000-0000-000000000005</Source>
+                <Target>[BoolEntityData] 00000000-0000-0000-0000-000000000001</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0xbb06a967</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xa4253151</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="11">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c898</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0xe317602e</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="12">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c89f</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x7b3a8fd5</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="13">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c89e</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x3f892709</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+        <member Index="14">
+            <EventConnection>
+                <Source>[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</Source>
+                <Target>[InterfaceDescriptorData] 00000000-0000-0000-0000-000000000004</Target>
+                <SourceEvent>
+                    <EventSpec>
+                        <Id>0x7c83c89d</Id>
+                    </EventSpec>
+                </SourceEvent>
+                <TargetEvent>
+                    <EventSpec>
+                        <Id>0x441fea4d</Id>
+                    </EventSpec>
+                </TargetEvent>
+                <TargetType>EventConnectionTargetType_Server</TargetType>
+            </EventConnection>
+        </member>
+    </EventConnections>
+    <Objects Count="5">
+        <member Index="0">[CompareBoolEntityData] 00000000-0000-0000-0000-000000000003</member>
+        <member Index="1">[RandomEventEntityData] 00000000-0000-0000-0000-000000000005</member>
+        <member Index="2">[BoolEntityData] 00000000-0000-0000-0000-000000000002</member>
+        <member Index="3">[RandomMultiEventEntityData] 00000000-0000-0000-0000-000000000006</member>
+        <member Index="4">[BoolEntityData] 00000000-0000-0000-0000-000000000001</member>
+    </Objects>
+    <TimeDeltaType>TimeDeltaType_None</TimeDeltaType>
+</LogicPrefabBlueprint>
+<BoolEntityData Guid="00000000-0000-0000-0000-000000000001">
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>False</DefaultValue>
+    <Flags>0x05c14ab8</Flags>
+</BoolEntityData>
+<BoolEntityData Guid="00000000-0000-0000-0000-000000000002">
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>True</DefaultValue>
+    <Flags>0x05cd21e8</Flags>
+</BoolEntityData>
+<CompareBoolEntityData Guid="00000000-0000-0000-0000-000000000003">
+    <Realm>Realm_Server</Realm>
+    <Bool>False</Bool>
+    <TriggerOnPropertyChange>False</TriggerOnPropertyChange>
+    <TriggerOnStart>False</TriggerOnStart>
+    <AlwaysSend>False</AlwaysSend>
+    <Flags>0x140c767a</Flags>
+</CompareBoolEntityData>
+<InterfaceDescriptorData Guid="00000000-0000-0000-0000-000000000004">
+    <Fields Count="1">
+        <member Index="0">
+            <DataField>
+                <Value></Value>
+                <ValueRef>nullptr</ValueRef>
+                <Id>0xd688377b</Id>
+                <AccessType>FieldAccessType_Source</AccessType>
+            </DataField>
+        </member>
+    </Fields>
+    <InputEvents Count="3">
+        <member Index="0">
+            <DynamicEvent>
+                <Id>0x7b30dd8b</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="1">
+            <DynamicEvent>
+                <Id>0x867707e2</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="2">
+            <DynamicEvent>
+                <Id>0xd661a30e</Id>
+            </DynamicEvent>
+        </member>
+    </InputEvents>
+    <OutputEvents Count="8">
+        <member Index="0">
+            <DynamicEvent>
+                <Id>0x7f2074a7</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="1">
+            <DynamicEvent>
+                <Id>0x86b04bb6</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="2">
+            <DynamicEvent>
+                <Id>0xe2387089</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="3">
+            <DynamicEvent>
+                <Id>0xe2b2973b</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="4">
+            <DynamicEvent>
+                <Id>0xe317602e</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="5">
+            <DynamicEvent>
+                <Id>0x7b3a8fd5</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="6">
+            <DynamicEvent>
+                <Id>0x3f892709</Id>
+            </DynamicEvent>
+        </member>
+        <member Index="7">
+            <DynamicEvent>
+                <Id>0x441fea4d</Id>
+            </DynamicEvent>
+        </member>
+    </OutputEvents>
+    <InputLinks Count="0"></InputLinks>
+    <OutputLinks Count="0"></OutputLinks>
+</InterfaceDescriptorData>
+<RandomEventEntityData Guid="00000000-0000-0000-0000-000000000005">
+    <Flags>0x058101ca</Flags>
+    <Realm>Realm_Server</Realm>
+    <Probability>0x0000001e</Probability>
+    <RandomizeFirstOnly>False</RandomizeFirstOnly>
+    <AutoStart>False</AutoStart>
+</RandomEventEntityData>
+<RandomMultiEventEntityData Guid="00000000-0000-0000-0000-000000000006">
+    <Flags>0x0589e099</Flags>
+    <Realm>Realm_Server</Realm>
+    <RandomEventWeight Count="7">
+        <member Index="0">0</member>
+        <member Index="1">0</member>
+        <member Index="2">0</member>
+        <member Index="3">0</member>
+        <member Index="4">0</member>
+        <member Index="5">0</member>
+        <member Index="6">0</member>
+    </RandomEventWeight>
+    <UniformDistribution>True</UniformDistribution>
+    <DisableOutputOnTrigger>True</DisableOutputOnTrigger>
+    <ResetOutputsWhenAllHasTriggered>True</ResetOutputsWhenAllHasTriggered>
+    <TrueRandom>False</TrueRandom>
+</RandomMultiEventEntityData>

@@ -1,0 +1,221 @@
+<WorldPartData Guid="35976564-97e6-4146-a58f-448c360865b7">
+    <Name>Levels/Level_Coop_TimePark/GraveyardOps_Logic_Schematic</Name>
+    <PropertyConnections Count="0"></PropertyConnections>
+    <LinkConnections Count="0"></LinkConnections>
+    <Interface>nullptr</Interface>
+    <Flags>0000</Flags>
+    <EventConnections Count="0"></EventConnections>
+    <Objects Count="17">
+        <member Index="0">[FloatEntityData] 4fd4d2be-b453-474d-9d58-b1f979268d9e</member>
+        <member Index="1">[DelayEntityData] 096f6408-a252-4bd3-af09-9e58bd5a65c3</member>
+        <member Index="2">[EventGateEntityData] 6a69c0a1-a8fb-4a25-821b-1031d085d4f6</member>
+        <member Index="3">[FloatEntityData] 6f00f3d8-0e8b-4519-83a2-1f1ff6f6e566</member>
+        <member Index="4">[SchematicChannelEntityData] 6465a61b-8667-4fb8-9f80-988957ab786e</member>
+        <member Index="5">[RandomMultiEventEntityData] bc227c50-8273-4d89-a21a-bb0f52d7667a</member>
+        <member Index="6">[RandomMultiEventEntityData] b3d591d9-7475-42cc-b641-9777b8dd3e21</member>
+        <member Index="7">[RandomMultiEventEntityData] 80188d22-9b0d-427a-a753-db98cad89625</member>
+        <member Index="8">[LogicPrefabReferenceObjectData] ad2922db-716f-47d4-9ca1-3808e330bc5b</member>
+        <member Index="9">[EventGateEntityData] 8d434705-7c74-45af-b94d-f0bd91bf8cc0</member>
+        <member Index="10">[EventGateEntityData] ba6afe97-e78a-4a5b-b6f3-ba9c41b4c876</member>
+        <member Index="11">[EventGateEntityData] 63c4eabf-3848-4fc2-bc92-15f8ce756317</member>
+        <member Index="12">[EventGateEntityData] 5fbb6010-69a5-45cd-8e6f-897d45f3b059</member>
+        <member Index="13">[EventGateEntityData] d363437c-8865-4f01-b569-6c03c4b998a0</member>
+        <member Index="14">[EventGateEntityData] e09001e0-b2ea-4935-8b09-5396fd6085fd</member>
+        <member Index="15">[DelayEntityData] b3e63d54-0dc1-4eb6-a848-f8287a5ccab1</member>
+        <member Index="16">[DelayEntityData] 950105b5-86b1-40f0-ace9-8391c0ba8dc1</member>
+    </Objects>
+    <TimeDeltaType>TimeDeltaType_None</TimeDeltaType>
+    <HackToSolveRealTimeTweakingIssue>00000000-0000-0000-0000-000000000000</HackToSolveRealTimeTweakingIssue>
+    <Enabled>True</Enabled>
+    <UseDeferredEntityCreation>False</UseDeferredEntityCreation>
+</WorldPartData>
+<EventGateEntityData Guid="8d434705-7c74-45af-b94d-f0bd91bf8cc0">
+    <Flags>0x05434705</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
+<DelayEntityData Guid="096f6408-a252-4bd3-af09-9e58bd5a65c3">
+    <Flags>0x056f6408</Flags>
+    <Delay>1</Delay>
+    <Realm>Realm_Server</Realm>
+    <TimeDeltaType>TimeDeltaType_World</TimeDeltaType>
+    <AutoStart>False</AutoStart>
+    <RunOnce>False</RunOnce>
+    <RemoveDuplicateEvents>True</RemoveDuplicateEvents>
+</DelayEntityData>
+<EventGateEntityData Guid="5fbb6010-69a5-45cd-8e6f-897d45f3b059">
+    <Flags>0x05bb6010</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
+<SchematicChannelEntityData Guid="6465a61b-8667-4fb8-9f80-988957ab786e">
+    <Flags>0x0065a61b</Flags>
+    <Realm>Realm_ClientAndServer</Realm>
+    <Channel>[Ebx] Gameplay/GameModes/GameModeChannels/CoOps_EpicSpawn [da755917-d75e-c6b7-ab6c-61028f45aabf]</Channel>
+    <InputProperties Count="0"></InputProperties>
+    <InputRefProperties Count="0"></InputRefProperties>
+    <OutputProperties Count="1">
+        <member Index="0">0x00000000</member>
+    </OutputProperties>
+    <OutputRefProperties Count="0"></OutputRefProperties>
+    <InputPropertiesEnabled>True</InputPropertiesEnabled>
+    <WriteInputPropertiesOnEnabled>False</WriteInputPropertiesOnEnabled>
+    <IsGlobalChannel>False</IsGlobalChannel>
+</SchematicChannelEntityData>
+<RandomMultiEventEntityData Guid="80188d22-9b0d-427a-a753-db98cad89625">
+    <Flags>0x04188d22</Flags>
+    <Realm>Realm_Server</Realm>
+    <RandomEventWeight Count="4">
+        <member Index="0">0</member>
+        <member Index="1">0</member>
+        <member Index="2">0</member>
+        <member Index="3">0</member>
+    </RandomEventWeight>
+    <UniformDistribution>True</UniformDistribution>
+    <DisableOutputOnTrigger>True</DisableOutputOnTrigger>
+    <ResetOutputsWhenAllHasTriggered>True</ResetOutputsWhenAllHasTriggered>
+    <TrueRandom>False</TrueRandom>
+</RandomMultiEventEntityData>
+<RandomMultiEventEntityData Guid="bc227c50-8273-4d89-a21a-bb0f52d7667a">
+    <Flags>0x04227c50</Flags>
+    <Realm>Realm_Server</Realm>
+    <RandomEventWeight Count="4">
+        <member Index="0">0</member>
+        <member Index="1">0</member>
+        <member Index="2">0</member>
+        <member Index="3">0</member>
+    </RandomEventWeight>
+    <UniformDistribution>True</UniformDistribution>
+    <DisableOutputOnTrigger>True</DisableOutputOnTrigger>
+    <ResetOutputsWhenAllHasTriggered>True</ResetOutputsWhenAllHasTriggered>
+    <TrueRandom>False</TrueRandom>
+</RandomMultiEventEntityData>
+<DelayEntityData Guid="b3e63d54-0dc1-4eb6-a848-f8287a5ccab1">
+    <Flags>0x05e63d54</Flags>
+    <Delay>2</Delay>
+    <Realm>Realm_Server</Realm>
+    <TimeDeltaType>TimeDeltaType_World</TimeDeltaType>
+    <AutoStart>False</AutoStart>
+    <RunOnce>False</RunOnce>
+    <RemoveDuplicateEvents>True</RemoveDuplicateEvents>
+</DelayEntityData>
+<EventGateEntityData Guid="d363437c-8865-4f01-b569-6c03c4b998a0">
+    <Flags>0x0563437c</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
+<EventGateEntityData Guid="ba6afe97-e78a-4a5b-b6f3-ba9c41b4c876">
+    <Flags>0x046afe97</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
+<EventGateEntityData Guid="6a69c0a1-a8fb-4a25-821b-1031d085d4f6">
+    <Flags>0x0469c0a1</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>True</Default>
+    <AutoClose>True</AutoClose>
+</EventGateEntityData>
+<DelayEntityData Guid="950105b5-86b1-40f0-ace9-8391c0ba8dc1">
+    <Flags>0x050105b5</Flags>
+    <Delay>2</Delay>
+    <Realm>Realm_Server</Realm>
+    <TimeDeltaType>TimeDeltaType_World</TimeDeltaType>
+    <AutoStart>False</AutoStart>
+    <RunOnce>False</RunOnce>
+    <RemoveDuplicateEvents>True</RemoveDuplicateEvents>
+</DelayEntityData>
+<FloatEntityData Guid="4fd4d2be-b453-474d-9d58-b1f979268d9e">
+    <Flags>0x01d4d2be</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>15</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<EventGateEntityData Guid="63c4eabf-3848-4fc2-bc92-15f8ce756317">
+    <Flags>0x05c4eabf</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
+<FloatEntityData Guid="6f00f3d8-0e8b-4519-83a2-1f1ff6f6e566">
+    <Flags>0x0100f3d8</Flags>
+    <Realm>Realm_Server</Realm>
+    <DefaultValue>15</DefaultValue>
+    <IncDecValue>1</IncDecValue>
+</FloatEntityData>
+<RandomMultiEventEntityData Guid="b3d591d9-7475-42cc-b641-9777b8dd3e21">
+    <Flags>0x05d591d9</Flags>
+    <Realm>Realm_Server</Realm>
+    <RandomEventWeight Count="4">
+        <member Index="0">0</member>
+        <member Index="1">0</member>
+        <member Index="2">0</member>
+        <member Index="3">0</member>
+    </RandomEventWeight>
+    <UniformDistribution>True</UniformDistribution>
+    <DisableOutputOnTrigger>True</DisableOutputOnTrigger>
+    <ResetOutputsWhenAllHasTriggered>True</ResetOutputsWhenAllHasTriggered>
+    <TrueRandom>False</TrueRandom>
+</RandomMultiEventEntityData>
+<LogicPrefabReferenceObjectData Guid="ad2922db-716f-47d4-9ca1-3808e330bc5b">
+    <Flags>0x012922db</Flags>
+    <LocalPlayerId>LocalPlayerId_Invalid</LocalPlayerId>
+    <SubRealm>SubRealm_All</SubRealm>
+    <Blueprint>[Ebx] Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/StoryOps_EscapeShortCut [2db733f4-dd5b-7ef0-f709-6be9802ab4bd]</Blueprint>
+    <BlueprintTransform>
+        <LinearTransform>
+            <right>
+                <Vec3>
+                    <x>1</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </right>
+            <up>
+                <Vec3>
+                    <x>0</x>
+                    <y>1</y>
+                    <z>0</z>
+                </Vec3>
+            </up>
+            <forward>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>1</z>
+                </Vec3>
+            </forward>
+            <trans>
+                <Vec3>
+                    <x>0</x>
+                    <y>0</y>
+                    <z>0</z>
+                </Vec3>
+            </trans>
+        </LinearTransform>
+    </BlueprintTransform>
+    <ObjectVariation>nullptr</ObjectVariation>
+    <StreamRealm>StreamRealm_None</StreamRealm>
+    <RadiosityTypeOverride>RadiosityTypeOverride_None</RadiosityTypeOverride>
+    <LightmapResolutionScale>0x00000000</LightmapResolutionScale>
+    <RenderingOverrides>
+        <RenderingOverrides>
+            <ShadowEnable>RenderingOverride_Inherit</ShadowEnable>
+            <DynamicReflectionEnable>RenderingOverride_Inherit</DynamicReflectionEnable>
+            <StaticReflectionEnable>RenderingOverride_Inherit</StaticReflectionEnable>
+        </RenderingOverrides>
+    </RenderingOverrides>
+    <CastSunShadowEnable>True</CastSunShadowEnable>
+    <CastReflectionEnable>True</CastReflectionEnable>
+    <CastEnvmapEnable>True</CastEnvmapEnable>
+    <Excluded>False</Excluded>
+</LogicPrefabReferenceObjectData>
+<EventGateEntityData Guid="e09001e0-b2ea-4935-8b09-5396fd6085fd">
+    <Flags>0x049001e0</Flags>
+    <Realm>Realm_Server</Realm>
+    <Default>False</Default>
+    <AutoClose>False</AutoClose>
+</EventGateEntityData>
