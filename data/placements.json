@@ -1,0 +1,542 @@
+[
+  {
+    "label": "A01",
+    "layer": "AISpawns",
+    "guid": "43791300-0564-4372-a338-1cffeca64196",
+    "x": -114.2429,
+    "y": 77.3625,
+    "z": 186.5154,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A02",
+    "layer": "AISpawns",
+    "guid": "8fa84802-29a0-49c7-ad3a-97e01178c550",
+    "x": -148.5076,
+    "y": 67.7559,
+    "z": 310.304,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A03",
+    "layer": "AISpawns",
+    "guid": "f9b4cc09-5b2b-4ef5-aca8-aeeeaf69b5c7",
+    "x": -120.6318,
+    "y": 71.85616,
+    "z": 9.614013,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A04",
+    "layer": "AISpawns",
+    "guid": "299c660e-87e4-47d5-9e2b-5c9790b2144e",
+    "x": -322.2852,
+    "y": 74.36678,
+    "z": 204.4499,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A05",
+    "layer": "AISpawns",
+    "guid": "1b2b5725-75ea-4f9c-9056-f21ef875bbbd",
+    "x": 25.04482,
+    "y": 71.58578,
+    "z": 169.8438,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A06",
+    "layer": "AISpawns",
+    "guid": "3246f232-722f-4a40-a885-d4a2776025f4",
+    "x": -322.4793,
+    "y": 67.59824,
+    "z": 143.993,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A07",
+    "layer": "AISpawns",
+    "guid": "49d1a337-fc73-4845-a12e-edf275c853f7",
+    "x": -18.95207,
+    "y": 68.97077,
+    "z": 169.6,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A08",
+    "layer": "AISpawns",
+    "guid": "a6ce0539-51b6-45d5-ae46-27a39ea5cd88",
+    "x": -314.6525,
+    "y": 74.42638,
+    "z": 212.652,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A09",
+    "layer": "AISpawns",
+    "guid": "7eb52f41-088d-441f-9169-851a0a52fcf7",
+    "x": -116.48,
+    "y": 77.3625,
+    "z": 153.92,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A10",
+    "layer": "AISpawns",
+    "guid": "090f8a41-614d-4319-95d9-b7a08c6906cb",
+    "x": -160.1343,
+    "y": 77.3625,
+    "z": 198.4253,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A11",
+    "layer": "AISpawns",
+    "guid": "f1a33b53-7245-4bb0-951c-5271800d5e58",
+    "x": -129.0206,
+    "y": 79.91523,
+    "z": 144.6706,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A12",
+    "layer": "AISpawns",
+    "guid": "43caca54-528f-4023-bd8a-b1582d4ee4e4",
+    "x": -149.44,
+    "y": 79.91523,
+    "z": 162.24,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A13",
+    "layer": "AISpawns",
+    "guid": "adf9d758-7a97-4f85-9f05-d9d1cb6bbbc1",
+    "x": 24.9714,
+    "y": 71.58576,
+    "z": 147.6774,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A14",
+    "layer": "AISpawns",
+    "guid": "145c885b-8187-422a-bae3-3ef28d532f22",
+    "x": -25.66569,
+    "y": 67.73196,
+    "z": 148.4708,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A15",
+    "layer": "AISpawns",
+    "guid": "7e46dd5d-a4e1-4eda-848b-195329d8a83b",
+    "x": -120.792,
+    "y": 77.36249,
+    "z": 198.1095,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A16",
+    "layer": "AISpawns",
+    "guid": "decd7d5e-72c6-4fe1-a317-535e95f95b97",
+    "x": 13.49382,
+    "y": 71.58572,
+    "z": 187.662,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A17",
+    "layer": "AISpawns",
+    "guid": "bc87be63-a8da-4fc0-a5bf-bf9bc072ba83",
+    "x": -19.86767,
+    "y": 66.48569,
+    "z": 210.7181,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A18",
+    "layer": "AISpawns",
+    "guid": "85d3ec66-9fb6-43b0-83cd-96bca7c56fdf",
+    "x": -156.1804,
+    "y": 79.91523,
+    "z": 143.0702,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A19",
+    "layer": "AISpawns",
+    "guid": "d7ce7867-38ac-45c8-a7a4-90c6fa5c5cac",
+    "x": -142.4868,
+    "y": 66.54852,
+    "z": 38.00624,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A20",
+    "layer": "AISpawns",
+    "guid": "916a9a6b-8dba-40bf-af04-a3b264efe1eb",
+    "x": 25.24338,
+    "y": 71.58575,
+    "z": 188.8777,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A21",
+    "layer": "AISpawns",
+    "guid": "5956a574-abca-4ae3-aa7d-bee1f8972d62",
+    "x": -8.9312,
+    "y": 66.48569,
+    "z": 207.1974,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A22",
+    "layer": "AISpawns",
+    "guid": "64c6b274-fe0e-4571-a2f6-8ea053dcbff2",
+    "x": -142.4,
+    "y": 77.3625,
+    "z": 190.72,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A23",
+    "layer": "AISpawns",
+    "guid": "0cbb9775-fa9c-4ec9-9b7b-58ee8cf5b432",
+    "x": -136.6067,
+    "y": 67.7559,
+    "z": 298.8382,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A24",
+    "layer": "AISpawns",
+    "guid": "c3ed8578-62c8-478c-b145-42343467f968",
+    "x": -120.8773,
+    "y": 77.3625,
+    "z": 169.0532,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A25",
+    "layer": "AISpawns",
+    "guid": "8d945188-0a21-49dc-8e93-37de728b6447",
+    "x": -302.0279,
+    "y": 68.81428,
+    "z": 144.2838,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A26",
+    "layer": "AISpawns",
+    "guid": "30318888-d148-4c12-99e8-6976a8dad52a",
+    "x": 1.202519,
+    "y": 69.01668,
+    "z": 169.6,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A27",
+    "layer": "AISpawns",
+    "guid": "4fa47789-59ca-4d8b-8467-4bbfbb196166",
+    "x": -183.3769,
+    "y": 71.75436,
+    "z": 49.67525,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A28",
+    "layer": "AISpawns",
+    "guid": "faa01c8a-820a-407b-bcb7-1ea31e570c14",
+    "x": -287.5467,
+    "y": 68.82935,
+    "z": 144.9974,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A29",
+    "layer": "AISpawns",
+    "guid": "7744d094-8c09-43ca-a764-6a6d4a6c9c2c",
+    "x": -142.5389,
+    "y": 66.54852,
+    "z": 17.02614,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A30",
+    "layer": "AISpawns",
+    "guid": "c278089a-f355-48e9-8051-18817fd67786",
+    "x": -168.64,
+    "y": 77.3621,
+    "z": 154.88,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A31",
+    "layer": "AISpawns",
+    "guid": "1cb74a9a-554f-47f1-ba53-68f822bd599e",
+    "x": -135.68,
+    "y": 79.91523,
+    "z": 176.0,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A32",
+    "layer": "AISpawns",
+    "guid": "21748e9e-13aa-411d-9f07-e8d64ee70fed",
+    "x": -173.7611,
+    "y": 72.79684,
+    "z": 54.80236,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A33",
+    "layer": "AISpawns",
+    "guid": "a1a07fab-dd3f-45b1-9020-d22d206fd211",
+    "x": 11.05968,
+    "y": 71.58572,
+    "z": 153.826,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A34",
+    "layer": "AISpawns",
+    "guid": "edfcf2ac-6e37-49e2-ab7d-e92d9aff6aa7",
+    "x": -143.0934,
+    "y": 69.03648,
+    "z": 323.3277,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A35",
+    "layer": "AISpawns",
+    "guid": "be5682ad-78bd-4dd7-bc45-d0a8b8bc3bc0",
+    "x": -327.1414,
+    "y": 66.87129,
+    "z": 160.6501,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A36",
+    "layer": "AISpawns",
+    "guid": "63ad86b0-e23d-40cc-b068-7b99392598fc",
+    "x": -297.2875,
+    "y": 69.1892,
+    "z": 188.2551,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A37",
+    "layer": "AISpawns",
+    "guid": "4b94eab0-06e4-4f8a-90d9-d05c5e50f3b2",
+    "x": -180.2119,
+    "y": 71.74252,
+    "z": 19.86289,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A38",
+    "layer": "AISpawns",
+    "guid": "17c1e1b4-d252-46a4-8786-f80b19314859",
+    "x": -13.67562,
+    "y": 66.64164,
+    "z": 196.2065,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A39",
+    "layer": "AISpawns",
+    "guid": "249106ba-25ec-437e-9ee2-02cd9f325582",
+    "x": -264.0775,
+    "y": 66.96867,
+    "z": 167.5683,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A40",
+    "layer": "AISpawns",
+    "guid": "f211d2bf-7e5e-4e44-a7a3-f5ef819e43eb",
+    "x": -114.612,
+    "y": 71.85616,
+    "z": 47.08162,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A41",
+    "layer": "AISpawns",
+    "guid": "9b1cdac3-877d-47df-9507-59de90e60f20",
+    "x": -300.8965,
+    "y": 74.45894,
+    "z": 206.3248,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A42",
+    "layer": "AISpawns",
+    "guid": "558967c5-4c62-4cbd-99a4-a1128fdf7b2e",
+    "x": 33.25126,
+    "y": 74.15618,
+    "z": 132.1347,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A43",
+    "layer": "AISpawns",
+    "guid": "e5c26dc6-241c-4800-a45b-4160d164545e",
+    "x": -305.9216,
+    "y": 66.75873,
+    "z": 171.8767,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A44",
+    "layer": "AISpawns",
+    "guid": "8f2a6cca-539b-447c-8bd4-8bbfb6e453ba",
+    "x": -162.9431,
+    "y": 71.37847,
+    "z": 32.99052,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A45",
+    "layer": "AISpawns",
+    "guid": "fc10bfcb-4cf7-4658-a19a-5150650b60f4",
+    "x": -119.256,
+    "y": 71.85616,
+    "z": 28.75092,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A46",
+    "layer": "AISpawns",
+    "guid": "fb63e0d3-f2f8-4b91-866a-465acce5700d",
+    "x": -7.265073,
+    "y": 67.93759,
+    "z": 151.2484,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A47",
+    "layer": "AISpawns",
+    "guid": "78ead5d9-dd5f-4487-b20e-05b57e4b6bee",
+    "x": -164.5589,
+    "y": 77.3625,
+    "z": 169.8063,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A48",
+    "layer": "AISpawns",
+    "guid": "2c2f89db-67dc-4c4c-8000-0c4aa029ca49",
+    "x": -8.090581,
+    "y": 71.59665,
+    "z": 131.2165,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A49",
+    "layer": "AISpawns",
+    "guid": "cd2bdadf-4ddf-4d10-b838-ae2f439639f8",
+    "x": -136.8352,
+    "y": 67.7559,
+    "z": 310.304,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A50",
+    "layer": "AISpawns",
+    "guid": "893757e7-c2f2-442a-a1af-95de7699ec63",
+    "x": -280.7174,
+    "y": 69.61263,
+    "z": 190.72,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A51",
+    "layer": "AISpawns",
+    "guid": "6c540fec-4068-4af1-96f8-c7787388cab3",
+    "x": -164.48,
+    "y": 71.63253,
+    "z": 20.8,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A52",
+    "layer": "AISpawns",
+    "guid": "847eeeed-4752-4465-89a7-911e0039ffef",
+    "x": 10.75388,
+    "y": 66.82939,
+    "z": 208.2776,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A53",
+    "layer": "AISpawns",
+    "guid": "461b8af7-8a94-42f7-ae41-16a78b20e116",
+    "x": -135.68,
+    "y": 79.91523,
+    "z": 162.24,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A54",
+    "layer": "AISpawns",
+    "guid": "81782afa-ae04-477a-bcd8-50bdc73b6f6a",
+    "x": -149.76,
+    "y": 79.91523,
+    "z": 175.04,
+    "gameSpawnId": null
+  },
+  {
+    "label": "A55",
+    "layer": "AISpawns",
+    "guid": "52dea1ff-4435-4d81-9aac-65a13f111a74",
+    "x": -171.84,
+    "y": 77.3625,
+    "z": 187.84,
+    "gameSpawnId": null
+  },
+  {
+    "label": "E01",
+    "layer": "EpicSpawns",
+    "guid": "a8ce2924-ae05-4eee-bbd6-13b8d6211163",
+    "x": -290.3752,
+    "y": 68.97792,
+    "z": 179.6068,
+    "gameSpawnId": null
+  },
+  {
+    "label": "E02",
+    "layer": "EpicSpawns",
+    "guid": "8409424d-e5f4-45fc-bd1e-3d3d935aa542",
+    "x": 15.40493,
+    "y": 71.57716,
+    "z": 169.5567,
+    "gameSpawnId": null
+  },
+  {
+    "label": "E03",
+    "layer": "EpicSpawns",
+    "guid": "1809eb51-cbe4-458c-aeb2-63a637535059",
+    "x": -142.4133,
+    "y": 79.88062,
+    "z": 146.2684,
+    "gameSpawnId": null
+  },
+  {
+    "label": "E04",
+    "layer": "EpicSpawns",
+    "guid": "a64600a7-e0bd-4a22-a443-1776e7fd93d5",
+    "x": -148.9495,
+    "y": 67.73851,
+    "z": 311.4703,
+    "gameSpawnId": null
+  },
+  {
+    "label": "E05",
+    "layer": "EpicSpawns",
+    "guid": "20815de0-5cae-4196-a79f-0da19ce222a3",
+    "x": -176.7774,
+    "y": 71.46407,
+    "z": 24.07943,
+    "gameSpawnId": null
+  }
+]

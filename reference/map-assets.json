@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/maps/Egypt.jpg",
+    "sha256": "3a21ed826792e2fc4659730a7a253b9ba31f0124e42f092598cfc2afeacd9166",
+    "width": 1557,
+    "height": 874,
+    "provenance": "User-supplied game screenshot, embedded JPEG from previous planner; not mirrored or rotated."
+  },
+  {
+    "path": "assets/maps/Center.jpg",
+    "sha256": "aa19165421474d1359d06bcb65db8d04b0c3cb888d96a810103112d541c9c8e3",
+    "width": 876,
+    "height": 774,
+    "provenance": "User-supplied game screenshot, embedded JPEG from previous planner; not mirrored or rotated."
+  },
+  {
+    "path": "assets/maps/Rome.jpg",
+    "sha256": "ad7ac35355c0521fbb15dc4dd42ec41c1b353a7a804c17f450486944f1e3143a",
+    "width": 1056,
+    "height": 934,
+    "provenance": "User-supplied game screenshot, embedded JPEG from previous planner; not mirrored or rotated."
+  },
+  {
+    "path": "assets/maps/China.jpg",
+    "sha256": "b1da8a94ec39677388b8da4a73ca53435172b7882cd2e3b9275f6e313607fa13",
+    "width": 1279,
+    "height": 619,
+    "provenance": "User-supplied game screenshot, embedded JPEG from previous planner; not mirrored or rotated."
+  }
+]

@@ -1,0 +1,32 @@
+import unittest,json,hashlib,sys
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'scripts'));import build
+class SiteTests(unittest.TestCase):
+ @classmethod
+ def setUpClass(cls):
+  cls.layout=build.load('data/photo-layout.json');cls.old=build.load('reference/original-site/photo-layout.json');cls.placements=build.load('data/placements.json');cls.catalog=build.load('data/catalog.json')
+ def test_counts(self):
+  self.assertEqual(len(self.catalog),147);self.assertEqual(len(self.placements),60);self.assertEqual(sum(len(z['points']) for z in self.layout),40);self.assertEqual({z['id'] for z in self.layout},{'Egypt','Center','Rome','China'})
+ def test_stable_point_identity(self):
+  ps={p['label']:p for p in self.placements};seen=set()
+  for z in self.layout:
+   for p in z['points']:
+    self.assertNotIn(p['id'],seen);seen.add(p['id']);self.assertEqual(p['guid'],ps[p['id']]['guid']);self.assertEqual(p['world'],{k:ps[p['id']][k] for k in ['x','y','z']})
+ def test_backgrounds_unchanged(self):
+  for a in build.load('reference/map-assets.json'):self.assertEqual(hashlib.sha256((ROOT/a['path']).read_bytes()).hexdigest(),a['sha256'])
+ def test_confirmed_corrections(self):
+  old={z['id']:{p['id']:p for p in z['points']} for z in self.old};now={z['id']:{p['id']:p for p in z['points']} for z in self.layout}
+  def xy(p):return p['x'],p['y']
+  for a,b in [('A10','A15'),('A55','A01'),('A54','A31'),('A47','A24'),('A12','A53'),('A30','A09'),('A18','A11')]:
+   self.assertEqual(xy(now['Center'][a]),xy(old['Center'][b]));self.assertEqual(xy(now['Center'][b]),xy(old['Center'][a]))
+  self.assertEqual(xy(now['Center']['A22']),xy(old['Center']['A22']))
+  self.assertEqual(xy(now['Rome']['A02']),xy(old['Rome']['A49']));self.assertEqual(xy(now['Rome']['A49']),xy(old['Rome']['A02']));self.assertEqual(xy(now['Rome']['A34']),xy(old['Rome']['A34']))
+  for k in ['x','y']:self.assertAlmostEqual(now['Rome']['A23'][k],{'x':0.3860085606575012,'y':0.6831969022750854}[k],places=7)
+  for zone in ['Egypt','China']:
+   for key,p in old[zone].items():self.assertEqual(xy(p),xy(now[zone][key]))
+ def test_build_is_current(self):self.assertEqual((ROOT/'index.html').read_text(encoding='utf-8'),build.render())
+ def test_source_has_versioned_export(self):
+  app=(ROOT/'src/app.js').read_text(encoding='utf-8');self.assertIn('user-screenshots-rome-center-corrected-v3',app);self.assertIn('readyForFrosty=false',app)
+ def test_no_bundled_game_exports(self):
+  for pattern in ['*.bin','*.fbmod','*.fbproject','*.xml']:self.assertFalse(list(ROOT.rglob(pattern)),pattern)
+if __name__=='__main__':unittest.main()

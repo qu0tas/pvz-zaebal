@@ -1,0 +1,128 @@
+[
+  {
+    "filename": "GardenOps_WaveTree.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/GardenOps/GardenOps_WaveTree",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 179072,
+    "sha256": "0b726566ae920eac702bd42e2f2d011af374909fca8592d167762681385b898d"
+  },
+  {
+    "filename": "GardenOps_WaveTree.xml",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/GardenOps/GardenOps_WaveTree",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 2185783,
+    "sha256": "7d3589a95dd7834ba400e2c5c66af760c89c2c479d343b404dd6c4ba22bebffa"
+  },
+  {
+    "filename": "GardenOps_WaveLogic.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/GardenOps/GardenOps_WaveLogic",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 37936,
+    "sha256": "93930bed454f2b2c31bf681092fd4fb2994311a50fc95e8f2683ebeebd85ee02"
+  },
+  {
+    "filename": "GardenOps_WaveLogic.xml",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/GardenOps/GardenOps_WaveLogic",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 825161,
+    "sha256": "b70aa9a144751d723e25e7092adb02f2e7bdec2d218011c280912daba4ca88de"
+  },
+  {
+    "filename": "AISpawnGrid.bin",
+    "frosty_asset": "Levels/Level_Coop_TimePark/AISpawnGrid",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 23776,
+    "sha256": "851627c647e99193f764098fc5eb08956cdc46aa4af54b53fcd4daee8caf5f5f"
+  },
+  {
+    "filename": "layer0_aispawns.bin",
+    "frosty_asset": "Levels/Level_Coop_TimePark/aispawngrid/layer0_aispawns",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 10928,
+    "sha256": "6956526f875fabf1a3895b9aa1f54fa3ffb7a0de4a9a4840938eaaa690fc1a6b"
+  },
+  {
+    "filename": "layer0_aispawns.xml",
+    "frosty_asset": "Levels/Level_Coop_TimePark/aispawngrid/layer0_aispawns",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 110568,
+    "sha256": "3d01cd1727305c019356625ba7b13094342ea4bddd34a83e2ef05c22cc86d897"
+  },
+  {
+    "filename": "layer1_epicspawns.bin",
+    "frosty_asset": "Levels/Level_Coop_TimePark/aispawngrid/layer1_epicspawns",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 4336,
+    "sha256": "af990f12fcf9884c12e97890e6782e58d104e6d517a4473a1c08b11ba4030670"
+  },
+  {
+    "filename": "layer1_epicspawns.xml",
+    "frosty_asset": "Levels/Level_Coop_TimePark/aispawngrid/layer1_epicspawns",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 10693,
+    "sha256": "c98c406b3108c0bae5f0fd6133d19b8f6a6f938a6a944136a5ae2b09e6dcd397"
+  },
+  {
+    "filename": "CoOps_AISpawn_Prefab.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/CoOps_AISpawn_Prefab",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 13824,
+    "sha256": "07c98bcd13fb878d7d2593388a0ee4d0d338a2cc07080fbb66f2b6c15b2a4fb8"
+  },
+  {
+    "filename": "CoOps_ChallengeSelector.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/CoOps_ChallengeSelector",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 13872,
+    "sha256": "5e272e5375d7418f605337c16dba9ddaadbcebe84080eaa7335547901b5fa59e"
+  },
+  {
+    "filename": "CoOps_ChallengeSelector.xml",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/CoOps_ChallengeSelector",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 186029,
+    "sha256": "4d66877cca8612e529f60a22ce4322cce87a23965a8f77803aa244835f706b97"
+  },
+  {
+    "filename": "CoOps_SlotMachine_RewardSpin.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/CoOps_SlotMachine_RewardSpin",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 5488,
+    "sha256": "144bf8fca907ccf03c7b025d9277e1c03ffff375a17e1292e0916efdd20be8a1"
+  },
+  {
+    "filename": "CoOps_BossWave.bin",
+    "frosty_asset": "Levels_Sandbox/Level_Shawbs_Sandbox/CoOps/CoOps_BossWave",
+    "role": "original export supplied earlier in session; baseline, not current Test07",
+    "included": false,
+    "located_during_packaging": true,
+    "size": 23152,
+    "sha256": "9a0857daea56b2c4ff19e0e91e20b009f8a22acb3fd7b1480b5f7a4814152dd8"
+  }
+]
