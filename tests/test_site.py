@@ -27,6 +27,15 @@ class SiteTests(unittest.TestCase):
  def test_build_is_current(self):self.assertEqual((ROOT/'index.html').read_text(encoding='utf-8'),build.render())
  def test_source_has_versioned_export(self):
   app=(ROOT/'src/app.js').read_text(encoding='utf-8');self.assertIn('user-screenshots-rome-center-corrected-v3',app);self.assertIn('readyForFrosty=false',app)
+ def test_bin_schema_profiles(self):
+  schema=build.load('data/bin-schema.json');manifest={m['filename']:m for m in build.load('reference/game-originals-manifest.json')}
+  self.assertEqual(set(schema['files']),{'AISpawnGrid','GardenOps_WaveTree','GardenOps_WaveLogic'})
+  for f in schema['files'].values():self.assertEqual(f['sha256'],manifest[f['filename']]['sha256']);self.assertEqual(f['size'],manifest[f['filename']]['size'])
+  self.assertEqual(len(schema['tree']['groups']),147);self.assertEqual(schema['logic']['connections']['count'],942)
+ def test_no_shared_mutated_arrays(self):
+  s=build.load('data/bin-schema.json');groups=[g['array']['index'] for g in s['tree']['groups']];main=[g['numMain']['index'] for g in s['tree']['subgroups'].values()];self.assertEqual(len(groups),len(set(groups)));self.assertEqual(len(main),len(set(main)))
+ def test_builder_sources_embedded(self):
+  html=(ROOT/'index.html').read_text(encoding='utf-8');self.assertIn('id="bin-schema"',html);self.assertIn('id="binInputs"',html);self.assertNotIn('__BIN_',html)
  def test_no_bundled_game_exports(self):
   for pattern in ['*.bin','*.fbmod','*.fbproject','*.xml']:self.assertFalse(list(ROOT.rglob(pattern)),pattern)
 if __name__=='__main__':unittest.main()

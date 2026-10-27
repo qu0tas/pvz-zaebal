@@ -1,12 +1,12 @@
 ---
 name: maintain-timepark-planner
-description: Maintain the Time Park Garden Ops planner for Plants vs Zombies Garden Warfare 2. Use to change map markers, screenshots, wave catalog, point assignments, JSON import/export, GitHub Pages build, or investigate Frosty spawn-plan mismatches. Preserve placement identity and distinguish browser layout fixes from game-runtime fixes.
+description: Maintain the Time Park Garden Ops planner for Plants vs Zombies Garden Warfare 2. Use to change map markers, screenshots, wave catalog, point assignments, JSON import/export, GitHub Pages build, local BIN generation, or investigate Frosty spawn-plan mismatches. Preserve placement identity and distinguish browser layout fixes from game-runtime fixes.
 ---
 
 ## Start
 
 1. Read `AGENTS.md`, `README.md`, and `docs/ARCHITECTURE.md` from the repository root.
-2. Read `docs/GAME-MODDING-NOTES.md` only for BIN/XML/Frosty work. Read `reference/layout-changes.json` when the request depends on previously corrected positions.
+2. Read `docs/BIN-BUILDER.md` for the browser generator; read `docs/GAME-MODDING-NOTES.md` for BIN/XML/Frosty work. Read `reference/layout-changes.json` when the request depends on previously corrected positions.
 3. Establish whether the request changes visual marker positions, point identities, wave assignments, or game assets. Do not silently substitute one for another.
 4. For an ambiguous mirror request, ask which zone and axis, or obtain two paired landmarks and an annotated screenshot. A correct A34 alongside misplaced A02/A49/A23 is NOT a whole-image mirror.
 
@@ -37,9 +37,10 @@ Run from repository root:
 python scripts/build.py
 python scripts/build.py --check
 python -m unittest discover -s tests -v
+node tests/bin_builder.cjs
 ```
 
-Use Python 3.10+, no build dependencies. Open `index.html` directly or serve the root with `python -m http.server 8000`.
+Use Python 3.10+, no build dependencies; Node.js 20+ without packages is needed only for JS tests. Open `index.html` directly or serve the root with `python -m http.server 8000`.
 
 For UI changes, inspect at desktop width around 1440 and mobile width around 390. Check all changed zones, no overlapping labels or clipping, selection, import, export, localStorage behavior, and console errors. Validate that exported photos contain the new visual positions but unchanged GUID/world. Keep downloaded test files and screenshots outside tracked source (`artifacts/` is ignored).
 
@@ -68,3 +69,7 @@ Do not equate a self-generated fixture with an independent Frosty round-trip. St
 - “Swap Rome A02 and A49, move A23 under old A02, leave A34”: change only three photo positions, rebuild, test identities and background hashes.
 - “Center is mirrored: A55 must occupy A01 and A30 must occupy A09”: confirm horizontal paired mapping, preserve A22 and point identities; use the documented seven pairs when approved.
 - “Export looks right but wave six spawns near Volcano”: separate photo-label verification from actual spawner behavior; compare observed world coordinates before generating another speculative patch.
+
+## Maintain the BIN generator
+
+Edit `src/bin-builder.js` and `src/bin-panel.html`; never disable exact input size/SHA checks. `data/bin-schema.json` contains offsets, not payloads. Reproduce it with `scripts/generate_bin_schema.py` from local originals. Keep the three-resource/Time Park boundary explicit, block unsupported AMBUSH and preserve service routes outside waves 1–10. Default/random challenges and rewards are unchanged. Do not call the experimental 100xx method runtime-proven. Run JS tests, and, when originals are available, use `scripts/browser_smoke.py` and independent EBX decoding. Do not commit generated test BINs.

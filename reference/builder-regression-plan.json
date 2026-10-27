@@ -1,0 +1,99 @@
+{
+  "format": "gw2-timepark-plan",
+  "version": 1,
+  "name": "Historical Test05 byte-equivalence regression, not runtime-verified",
+  "waves": {
+    "1": {
+      "groupGuid": "e7823a97-8608-4a2b-a324-092289ae9113",
+      "compositionGuid": "f35cb137-b2f5-457e-8a80-fd06984ecd0c",
+      "assignments": {
+        "41e658ac-91da-4a57-81fc-91764f874fde": "A22",
+        "7edc3278-75e8-4661-8e5c-d0b818dda6a7": "A54"
+      },
+      "ambush": false
+    },
+    "2": {
+      "groupGuid": "2e3b0535-e353-4630-8271-0f2d6ba75e4c",
+      "compositionGuid": "d02eb666-a045-4dc6-9396-3543cc7a3c98",
+      "assignments": {
+        "f9bafbc4-4619-4033-a2d3-2e3c5005251d": "A12",
+        "6ad74128-5348-42c8-88c1-10ce51b2e556": "A30"
+      },
+      "ambush": false
+    },
+    "3": {
+      "groupGuid": "2caa27fa-ff34-45de-9a6d-ac93a469b3d1",
+      "compositionGuid": "auto",
+      "assignments": {
+        "b4bc05fc-167a-457f-85cc-b062d0946615": "A10",
+        "28f38279-0c75-482e-9961-36321584f198": "A54",
+        "459a7e3b-dc17-4fbf-9494-7250a4d423e9": "A53"
+      },
+      "ambush": false
+    },
+    "4": {
+      "groupGuid": "9421f8da-54c6-4de6-8099-ffc06fdf97c4",
+      "compositionGuid": "a02f1faa-e062-4f30-8b43-2c38197181ac",
+      "assignments": {
+        "d1781a72-fdf8-485d-bb10-3fb4b6c00bc1": "A31",
+        "a153ad35-6db2-4a4f-a33e-37e3a6c6749c": "A18"
+      },
+      "ambush": false
+    },
+    "5": {
+      "groupGuid": "687ed462-b5a6-4406-b3b4-a7f35388bdfd",
+      "compositionGuid": "7cb2a6c7-0960-490b-bd4e-18d096f66b1a",
+      "assignments": {
+        "88c758b2-8fd8-4da7-b59b-53cf5e4593bc": "A22",
+        "c18bca3f-7943-4a14-bfd7-0dcb27941972": "A15",
+        "5415c52c-ecc7-49d8-9d63-50da928ac1de": "A23"
+      },
+      "ambush": false
+    },
+    "6": {
+      "groupGuid": "d131b225-1f3d-4e7e-b3df-70e2d65df395",
+      "compositionGuid": "161e6e11-bf73-41ae-bf71-cdfa1d7f7fed",
+      "assignments": {
+        "fe417256-5959-4905-a44c-032bc56879b3": "A30",
+        "75acf349-de70-45db-ac69-ee3543f14753": "A55"
+      },
+      "ambush": false
+    },
+    "7": {
+      "groupGuid": "8393e434-7557-4c0b-8372-456d61388406",
+      "compositionGuid": "auto",
+      "assignments": {
+        "f276eb35-68ce-4f78-b059-f0afb8ef5395": "A10",
+        "13772b97-14e7-4a36-a26c-9a43b0ecd5b5": "A47"
+      },
+      "ambush": false
+    },
+    "8": {
+      "groupGuid": "0474039d-5f99-4322-82e7-af7ec5502567",
+      "compositionGuid": "auto",
+      "assignments": {
+        "7fa5d9b3-52f2-4255-afb5-a50421bc00d9": "A54",
+        "4d99a933-6147-4a80-8532-f7ca8d0137ea": "A15"
+      },
+      "ambush": false
+    },
+    "9": {
+      "groupGuid": "3622536b-e482-4b7a-bd4f-070cffd8a913",
+      "compositionGuid": "auto",
+      "assignments": {
+        "a4b7c15b-b079-4bb4-916c-956553b2192f": "A53",
+        "7c8ff2a2-e25d-4d3f-b173-cd991b698ca9": "A24"
+      },
+      "ambush": false
+    },
+    "10": {
+      "groupGuid": "521ce5b4-bd96-4670-a42f-2ad365e0f96a",
+      "compositionGuid": "67f83092-0d8d-4b5b-ac45-ee9e7dacb3ad",
+      "assignments": {
+        "cc35d0d8-0cae-4b11-94b5-22d31a11ff42": "A12",
+        "bdab5595-7cd8-418d-98d4-1c94f5634ba8": "A31"
+      },
+      "ambush": false
+    }
+  }
+}

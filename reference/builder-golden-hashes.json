@@ -1,0 +1,8 @@
+{
+  "status": "HISTORICAL_PYTHON_BYTE_EQUIVALENCE_ONLY_NOT_RUNTIME_PROOF",
+  "files": {
+    "AISpawnGrid.bin": "272c86c2bd59099ab593c5a57615a500e699a66cd701714f7f75c0609721752d",
+    "GardenOps_WaveTree.bin": "91b9e2d05bc46e775037dd8e07e99a4e0cca276612326f96e815868ff3064502",
+    "GardenOps_WaveLogic.bin": "e2eef261fbbb7440240f7858177fc9dbff90d67fa374512bc77e6af3b72e1f89"
+  }
+}

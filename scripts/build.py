@@ -19,7 +19,7 @@ def render():
  app='const PHOTOS='+compact(photos)+';\n'+(ROOT/'src/app.js').read_text(encoding='utf-8')
  template=(ROOT/'src/template.html').read_text(encoding='utf-8')
  if template.count('__DATA__')!=1 or template.count('__APP__')!=1:raise ValueError('Invalid template placeholders')
- return template.replace('__DATA__',compact(catalog)).replace('__APP__',app)
+ return template.replace('__DATA__',compact(catalog)).replace('__APP__',app).replace('__BIN_PANEL__',(ROOT/'src/bin-panel.html').read_text(encoding='utf-8')).replace('__BIN_SCHEMA__',compact(load('data/bin-schema.json'))).replace('__BIN_APP__',(ROOT/'src/bin-builder.js').read_text(encoding='utf-8'))
 def main():
  ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--output',type=Path,default=ROOT/'index.html');ap.add_argument('--check',action='store_true');args=ap.parse_args();html=render();output=args.output
  if args.check:
